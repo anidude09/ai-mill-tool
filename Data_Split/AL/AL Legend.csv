@@ -1,0 +1,49 @@
+﻿American Lumber Legend:,Unnamed: 1,Unnamed: 2
+,,
+poRecordID,"Lumber PO number, there could be multiple instances of the same PO# if there are multiple items purchased on the PO",
+AljexProNumber,unique number assigned to the load in dispatch system,
+VendorCID,unique number assigned to the mill the load was purchased from,
+Mill,name of Mill the load was purchased from,
+BuyerName,name of American Lumber buyer that bought load,
+ContractPurchase,1 = Contract / 0 = Non-Contract,
+poType,"Direct POs - bought from mill, shipped direct to customer / Plant Pos* - bought from mill, shipped to American Lumber Plant",
+,,Plant PO's will not have a sales price because the purchases represent raw material inventory that will be cut into different finished products
+LinkToNo,the Sales Order tied to the PO when sold as a Direct - no data will be here for Plant POs,
+Salesman,name of saleman associated with the load,
+FreightPO,FreightPO number,
+ShipVia,Mill Truck* = the mill shipped the load / Flatbed = Lane One shipped the load / CPU = customer pick up,
+,,
+ItemNumber,SKU of the item purchased,
+ItemDescription,Description of the Item purchased,
+ConvBF,board foot per piece of the Item purchased,
+Grade,The grade of the lumber that was purchased,
+Species,The species of the lumber that was purchased,
+PurchaseUOM,unit of measure used to purchase each item,
+PurchasePrice,"This is the purchase price based on the Purchase UOM.  MBF stands for ""per 1000 BF' - so a purchase price of $298MBF means we will pay $298 for 1000 BF of this item",
+,,"if the ship via is 'flatbed' the the freight factor is also null, then the purchase price does not include freight cost"
+,,if the ship via is 'mill truck' then there is a value in the freight factor column and freight cost is included in the purchase price
+,,
+LumberCost,cost of lumber only,
+FreightFactor *,mill deliveries only. we use this to determine the freight cost added to the lumber cost when the mill ships the load. when the mill ships there is not a freight po because the freight cost is included in the price,
+,,Cost per = Cost per MBF
+,,Flat Rate = Rate per load
+,,Delivered Cost = Total load cost includes freight
+,,
+BF,board footage of each item purchased on the PO,
+CallReadyDate,the date the PO was ready to be picked up at the mill. The load may not have been sold or a customer may not yet need the load at the CallReadyDate,
+PickUpDate,the date the PO is scheduled to pick up by dispatch,
+DeliveredDate,the date the load delivered,
+Active,"1 is for active POs, there should only be 1s in this data",
+DATRate,"only pulls in when the potype is 'Direct PO', this is used as a ""market rate"" for delivering the load from the mill to the destination",
+,,"DAT is a freight & analytics service that we subscribe to that posts reported avg. carrier rates and avg. rates paid by customers receiving shipments. This is used as a basis to price loads by Lane One to American Lumber.  DATRate = the 2 week average carrier cost on the lane +20%. The 20% mark-up is capped at $400 where the carrier cost is $2,500 or more."
+,,
+EstFreight,the freight cost sales expects to pay on 'Direct POs',
+ActFreightCost,this is the actual total freight cost summed across all line items on the PO,
+,,"For Flat bed loads - this will equal the freight charges from Lane One ""LOT Revenue"" on the Lane One Data, which generally include a comission"
+CarrierFreight,"the total freight cost paid to the carrier, not broken out by cost associated with each item",
+FreightOutByLine,"This is how much freight cost was added to the total cost for each item purchased, this is where you can get the ActFreightCost for 'Delivered Cost' load by summing this column and grouping on the poRecordID. The cost are allocated pro-ratably by BF.",
+ReceivingFee,"only applicable to 'Plant POs': Internal cost allocation to represent estimated cost for the plant to receive, handle and store the inventory ",
+ContributionFee,"only applicable to 'DirectPOs', Internal cost allocation that represents a fees charged to sales orders to cover plant costs not covered by manufacturing fees",
+TotalCost,"this is basically total delivered cost - For plant PO's this is lumber cost plus freight cost plus receiving fee, for direct POs this is lumber cost plus freight cost plus contribution fee",
+SalePrice,price the items were sold to the customer,
+SaleUOM,unit of measure used to sell each item,

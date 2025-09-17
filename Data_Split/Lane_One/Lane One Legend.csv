@@ -1,0 +1,21 @@
+﻿Lane One Legend:,Unnamed: 1
+,
+Pro #,"Unique, per load reference number assigned by Lane One's dispatch system. This Ref# willl appear per load in the contract lumber data as well to help tie together."
+Type of Shipment,"F = Flatbed, V = Van, LTL = Partial / Hotshot.  [All have different rates]"
+Actual Dispatcher,Dispatcher that covered the load.
+Created Date,"This is the date the load came over from Lumber Pro to Aljex, Lane One's dispatch system, when the load has a ship to destination confirmed.  "
+Ship Date,Date the load picked up.
+Pickup City,
+Pickup State,
+Pickup Zip,
+Consignee City,Consignee = Delivery
+Consignee State,Consignee = Delivery
+Consignee Zip,Consignee = Delivery
+Carrier Name,Carrier that hauled the load
+," LMG TRANSPORT CO and BRIGHT SAWDUST are loads that Lane One books for the plants to deliver bi-product wood shavings at carrier cost, without a comission"
+Miles/Class,Miles from pickup location to delivery/consignee location.
+LOT Revenue,"Freight charge from Lane One to American Lumber, which generally includes a commission. Carrier = transportation/trucking company"
+LOT Carrier Expense,This is the amount the carrier contracted on the load was paid to haul the load. 
+LOT Gross Profit,Dollar value of the difference between LOT Revenue - LOT Carrier Expense.  Lane One's raw gross margin on the load.
+LOT Profit %,"Same figure as above, represented as a percentage."
+Mill Ready Dt,Date the mill (pickup location) called the load ready to pick up.
