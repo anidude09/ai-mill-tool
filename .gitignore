@@ -1,0 +1,13 @@
+.venv
+.DS_Store
+*.png
+*.txt
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.docx
+
+

@@ -1,0 +1,1453 @@
+region,mill,item_description,dimension,length_ft,grade,date,delivered_cost_per_mbf
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2024-12-05 00:00:00,300.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2024-12-10 00:00:00,353.29304029304
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-14 #1 SYP KD-HT,2x6,14,1,2024-12-11 00:00:00,433.181535993304
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-16 #1 SYP KD-HT,2x6,16,1,2024-12-11 00:00:00,458.18154296875
+East,"Interfor US, Inc (Georgetown, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2024-12-13 00:00:00,369.12841796875
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2024-12-16 06:00:00,300.357153588599
+Central,"Rex Lumber-Brookhaven (Brookhaven, MS)",2X8-8 #1 SYP KD-HT,2x8,8,1,2024-12-18 00:00:00,320.434782608696
+West,"Weyerhaeuser NR Company (Holden, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2024-12-18 00:00:00,363.424622252747
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #1 SYP KD-HT,4x4,12,1,2024-12-19 00:00:00,361.000019688645
+Central,"Westervelt Lumber Division (Moundville, AL)",4X6-16 #2 SYP,4x6,16,2,2024-12-19 00:00:00,475.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2024-12-19 00:00:00,448.392857142857
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2024-12-19 00:00:00,448.392857142857
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2024-12-19 00:00:00,443.076948617789
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2024-12-19 00:00:00,479.999974459135
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2024-12-19 00:00:00,443.076948617789
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2024-12-19 00:00:00,290.000012848143
+West,"Canfor Southern Pine (El Dorado, AR)",2X10-18 #1 SYP KD-HT,2x10,18,1,2024-12-20 00:00:00,290.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2024-12-23 00:00:00,330.004666355576
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2024-12-23 00:00:00,330.004666355576
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-20 #2 Prime SYP KD-HT S4S,2x6,20,2,2024-12-23 00:00:00,325.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-18 #2 Prime SYP KD-HT S4S,2x6,18,2,2024-12-23 00:00:00,310.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-20 #2 Prime SYP KD-HT S4S,2x6,20,2,2024-12-23 00:00:00,369.861842105263
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2024-12-26 00:00:00,390.063798401967
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2024-12-26 00:00:00,305.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-20 #1 SYP KD-HT,2x8,20,1,2025-01-02 00:00:00,346.666666666667
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-16 #2 SYP,4x6,16,2,2025-01-03 00:00:00,479.999949269481
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-16 #2 SYP,4x6,16,2,2025-01-03 00:00:00,479.999949269481
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-01-03 00:00:00,284.999982591712
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-06 00:00:00,434.225844432997
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-06 00:00:00,434.59378909412
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-06 00:00:00,430.794871794872
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-01-06 00:00:00,473.01574582315
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-01-06 00:00:00,405.93447265625
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-20 #2 SYP,4x6,20,2,2025-01-06 00:00:00,390.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-01-06 00:00:00,455.000048828125
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-01-06 00:00:00,300.00824198467
+Central,"Canfor Southern Pine (Bucks, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-06 00:00:00,403.381524725275
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-01-07 00:00:00,385.033054303499
+East,"Charles Ingram (Effingham, SC)",1X4-10 #2 NGM SYP HT RS,1x4,10,2,2025-01-07 00:00:00,600.750938673342
+East,"Charles Ingram (Effingham, SC)",1X4-12 #2 SYP KD-HT,1x4,12,2,2025-01-07 00:00:00,540.0
+East,"Charles Ingram (Effingham, SC)",1X4-14 #2 SYP KD-HT S4S,1x4,14,2,2025-01-07 00:00:00,570.0
+Central,"Doman Lumber (Hattiesburg, MS)",6X6-8 #2 SYP Treated,6x6,8,2,2025-01-07 00:00:00,725.000037615741
+Central,"Doman Lumber (Hattiesburg, MS)",6X6-10 #2 SYP Treated,6x6,10,2,2025-01-07 00:00:00,780.000045138889
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-01-08 00:00:00,435.620122610891
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-08 00:00:00,495.597421681316
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-01-08 00:00:00,384.433253205128
+West,"Potlatch Land & Lumber, LLC (Warren, AR)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-01-08 00:00:00,349.999987980769
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-01-08 00:00:00,768.617243303571
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-01-08 00:00:00,793.61728515625
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-01-08 00:00:00,1018.61723697917
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-01-08 00:00:00,523.617255208333
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-01-08 00:00:00,653.6173046875
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-8 #1 SYP KD-HT,2x4,8,1,2025-01-08 00:00:00,435.131048993087
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-01-08 00:00:00,380.000400641026
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-08 00:00:00,333.362067485189
+West,"West Fraser Mills Ltd. (Mansfield, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-01-09 00:00:00,305.013616679316
+West,"West Fraser Mills Ltd. (Mansfield, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-01-09 00:00:00,305.013616679316
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-01-09 00:00:00,355.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-01-09 00:00:00,359.967456954836
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-01-09 00:00:00,355.000375801282
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-01-09 00:00:00,359.967445235734
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-01-09 00:00:00,355.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-01-09 00:00:00,425.076985486343
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-01-09 00:00:00,300.008200774747
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-20 #2 SYP,4x6,20,2,2025-01-10 00:00:00,420.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-16 #2 SYP,4x6,16,2,2025-01-10 00:00:00,427.272727272727
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-01-13 00:00:00,549.999970278533
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-01-13 00:00:00,550.023872563913
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-01-13 00:00:00,550.023872563913
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-01-13 00:00:00,550.023872563913
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-01-13 00:00:00,550.023872563913
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-01-13 00:00:00,549.999970278533
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-01-13 00:00:00,550.023872563913
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-01-13 00:00:00,550.023872563913
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-01-13 00:00:00,549.580128205128
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-13 00:00:00,330.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-01-14 00:00:00,458.217569419401
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-01-14 00:00:00,488.134962940705
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-14 00:00:00,508.134950540958
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-14 00:00:00,533.13494140625
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-14 00:00:00,330.004836041234
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-01-14 00:00:00,1032.39583333333
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-01-15 00:00:00,549.999970278533
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-01-15 00:00:00,549.999970278533
+West,"Eastex Forest Products (Houston, TX)",1X4-12 #2 SYP KD-HT,1x4,12,2,2025-01-15 00:00:00,610.0
+West,"Eastex Forest Products (Houston, TX)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-15 00:00:00,400.0
+West,"Eastex Forest Products (Houston, TX)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-01-15 00:00:00,495.0
+East,"Charles Ingram (Effingham, SC)",4X6-16 #1 SYP HT,4x6,16,1,2025-01-15 00:00:00,485.714285714286
+West,"Eastex Forest Products (Houston, TX)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-01-16 00:00:00,580.0
+West,"Eastex Forest Products (Houston, TX)",4X4-16 #2 SYP,4x4,16,2,2025-01-16 00:00:00,600.111627906977
+West,"Doman Lumber (Gilmer, TX)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-01-16 00:00:00,535.102904404693
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-16 00:00:00,309.855427819964
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-16 00:00:00,300.0
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-16 00:00:00,309.850987980769
+East,"Charles Ingram (Effingham, SC)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-01-16 00:00:00,188.0
+Central,"WoodPerfect (Albertville, AL)",2X6-10 #1 SYP KD-HT,2x6,10,1,2025-01-16 00:00:00,546.666666666667
+Central,"WoodPerfect (Albertville, AL)",2X6-12 #1 SYP KD-HT,2x6,12,1,2025-01-16 00:00:00,435.0
+Central,"WoodPerfect (Albertville, AL)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-01-16 00:00:00,439.999966517857
+Central,"WoodPerfect (Albertville, AL)",2X6-16 #1 SYP KD-HT,2x6,16,1,2025-01-16 00:00:00,460.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-01-16 00:00:00,422.5
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-01-16 00:00:00,422.5
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-01-16 00:00:00,422.5
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-16 00:00:00,330.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-01-16 00:00:00,498.890368088942
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-16 00:00:00,518.890426271732
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-16 00:00:00,594.157971145176
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-01-16 00:00:00,508.890357905983
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-01-17 00:00:00,315.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-01-17 00:00:00,435.007604998976
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-20 00:00:00,393.353070674865
+East,"Charles Ingram (Effingham, SC)",4X6-16 #1 SYP HT,4x6,16,1,2025-01-20 00:00:00,516.071400669643
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-01-20 00:00:00,370.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-20 00:00:00,360.091460569295
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-8 #2 SYP,4x6,8,2,2025-01-22 00:00:00,471.851851851852
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-01-23 00:00:00,381.818181818182
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-01-23 00:00:00,450.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-01-23 00:00:00,355.043454742156
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-23 00:00:00,475.035947712418
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-01-23 00:00:00,390.000384615385
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-01-23 00:00:00,357.321428571429
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 Prime SYP KD-HT,2x4,16,2,2025-01-23 00:00:00,455.71431146978
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 Prime SYP KD-HT,2x4,16,2,2025-01-23 00:00:00,455.714714972527
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-01-23 00:00:00,435.00594140545
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-01-23 00:00:00,435.00594140545
+West,"Callaway Lumber Co Inc (Bryan, TX)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-01-23 00:00:00,224.739583333333
+West,"West Fraser Mills Ltd. (Mansfield, AR)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-01-24 00:00:00,313.043465098505
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #1 SYP HT,4x6,14,1,2025-01-24 00:00:00,455.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-01-24 00:00:00,357.321428571429
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-01-24 00:00:00,357.321428571429
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-01-27 00:00:00,325.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-01-27 00:00:00,325.000040690104
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-01-27 00:00:00,325.000040690104
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-01-27 00:00:00,428.263888888889
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-27 00:00:00,394.161309344952
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-27 00:00:00,394.161309344952
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-27 00:00:00,430.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-01-27 00:00:00,394.161309344952
+Central,"Westervelt Lumber Division (Moundville, AL)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-01-27 00:00:00,505.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-01-27 00:00:00,422.5
+West,"Potlatch Land & Lumber, LLC (Waldo, AR)",2X10-12 #2 SYP KD-HT,2x10,12,2,2025-01-28 00:00:00,266.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-28 00:00:00,449.936224590879
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-01-28 00:00:00,487.622538336569
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-01-28 00:00:00,411.596181891026
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-01-28 00:00:00,457.596129807692
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-01-28 00:00:00,421.743049796272
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-01-28 00:00:00,443.597756410256
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-8 #2 SYP,4x4,8,2,2025-01-28 00:00:00,470.000360620267
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-01-28 00:00:00,435.126064627813
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-01-28 00:00:00,395.0005
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-01-28 00:00:00,410.000428600865
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-16 #2 SYP,4x6,16,2,2025-01-28 00:00:00,495.00046875
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-16 #2 SYP KD-HT,4x4,16,2,2025-01-28 00:00:00,465.084385142445
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-8 #1 SYP KD-HT,2x8,8,1,2025-01-28 00:00:00,340.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-01-29 00:00:00,377.045454545455
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-01-29 00:00:00,400.0
+West,"Canfor Southern Pine (Deridder, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-01-29 00:00:00,477.821626250789
+Central,"Jasper Lumber Co, Inc (Jasper, AL)",4X4-12 #1 SYP KD-HT,4x4,12,1,2025-01-30 00:00:00,391.36368006993
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-01-30 00:00:00,412.386430533752
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-01-30 00:00:00,485.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,334.999959935897
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,334.999959935897
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,325.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,306.940104166667
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,334.999959935897
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,334.999959935897
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,325.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-01-31 00:00:00,330.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-14 #2 SYP,4x6,14,2,2025-01-31 00:00:00,465.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-14 #2 SYP,4x6,14,2,2025-01-31 00:00:00,465.0
+West,"West Fraser Mills Ltd (New Boston, TX)",2X10-18 #1 SYP KD-HT,2x10,18,1,2025-01-31 00:00:00,274.5
+Central,"Rex Lumber Troy, LLC (Troy, AL)",2X12-14 #2 SYP KD-HT,2x12,14,2,2025-01-31 00:00:00,330.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-01-31 00:00:00,460.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-01-31 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-01-31 00:00:00,460.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-01-31 00:00:00,460.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-01-31 00:00:00,330.004666355576
+West,"Canfor Southern Pine (Strong, AR)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-03 00:00:00,325.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-03 00:00:00,340.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-02-03 00:00:00,444.99979512395
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-02-03 00:00:00,422.216117216117
+Central,"Rex Lumber-Brookhaven (Brookhaven, MS)",2X8-16 #1 SYP KD-HT,2x8,16,1,2025-02-03 00:00:00,368.198206596529
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-02-03 00:00:00,778.429918154762
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-02-03 00:00:00,818.430061848958
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-02-03 00:00:00,1018.42999739583
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-02-03 00:00:00,608.4300234375
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-03 00:00:00,340.08641242099
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-02-03 00:00:00,355.0
+West,"Doman Lumber (Magnolia, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-02-04 00:00:00,500.751201923077
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-02-04 00:00:00,330.005414669325
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-02-04 00:00:00,311.679153812252
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-02-05 00:00:00,337.499962439904
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-05 00:00:00,340.00509056972
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-02-05 00:00:00,335.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-02-05 00:00:00,394.891483516483
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-02-05 00:00:00,394.891483516484
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-05 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-05 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-05 00:00:00,429.333333333333
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X6-20 #1 SYP HT,4x6,20,1,2025-02-06 00:00:00,540.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-06 00:00:00,354.285714285714
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-06 00:00:00,398.571428571429
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-02-06 00:00:00,617.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-02-06 00:00:00,617.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-02-06 00:00:00,617.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-02-06 00:00:00,585.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-02-06 00:00:00,585.0
+Central,"Hankins Lumber Company, Inc (Grenada, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-02-06 00:00:00,466.666666666667
+Central,"Hankins Lumber Company, Inc (Grenada, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-02-06 00:00:00,466.666666666667
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-02-07 00:00:00,466.346153846154
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X6-14 #1 SYP HT,4x6,14,1,2025-02-07 00:00:00,465.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X6-10 #1 SYP HT,4x6,10,1,2025-02-07 00:00:00,464.99996875
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X6-14 #1 SYP HT,4x6,14,1,2025-02-07 00:00:00,464.999977223032
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-02-07 00:00:00,398.571428571429
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-07 00:00:00,447.058823529412
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-07 00:00:00,398.571451803936
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-07 00:00:00,464.999974980377
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-07 00:00:00,431.785691053207
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-07 00:00:00,465.000027104592
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-07 00:00:00,465.000027104592
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-02-07 00:00:00,424.999979300214
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-02-07 00:00:00,449.953636925613
+Central,"Gloster Forest Products (Gloster, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-02-07 00:00:00,400.0
+Central,"Gloster Forest Products (Gloster, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-07 00:00:00,340.08641242099
+Central,"Gloster Forest Products (Gloster, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-07 00:00:00,340.08641242099
+Central,"Gloster Forest Products (Gloster, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-07 00:00:00,340.08641242099
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-20 #2 SYP,4x6,20,2,2025-02-08 00:00:00,475.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X6-16 #1 SYP KD-HT,2x6,16,1,2025-02-10 00:00:00,421.666666666667
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X6-16 #1 SYP KD-HT,2x6,16,1,2025-02-10 00:00:00,421.666666666667
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-14 #2 SYP,4x6,14,2,2025-02-10 00:00:00,405.147058823529
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-02-10 00:00:00,325.009189812907
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-10 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-10 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-10 00:00:00,460.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-10 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-10 00:00:00,429.333333333333
+Central,"Gloster Forest Products (Gloster, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-10 00:00:00,340.08641242099
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-02-11 00:00:00,497.015104771826
+Central,"Jasper Lumber Co, Inc (Jasper, AL)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-02-11 00:00:00,415.0
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-02-11 00:00:00,475.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-11 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-11 00:00:00,429.333333333333
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-02-11 00:00:00,429.333333333333
+West,"Doman Lumber (Russellville, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-02-12 00:00:00,510.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-02-12 00:00:00,544.884204832311
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-20 #1 SYP KD-HT,2x6,20,1,2025-02-12 00:00:00,524.818725260417
+West,"Snider Industries, LLP (Marshall, TX)",1X4-14 #2 SYP KD-HT S4S,1x4,14,2,2025-02-13 00:00:00,621.428571428571
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-02-13 00:00:00,528.653046875
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-02-13 00:00:00,458.653004807692
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-02-13 00:00:00,498.653046875
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP Treated,2x6,12,2,2025-02-13 00:00:00,648.65302734375
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-12 #2 SYP Treated,2x4,12,2,2025-02-13 00:00:00,578.653004807692
+West,"Doman Lumber (Russellville, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-02-14 00:00:00,520.0
+Central,"Hood Industries, Inc (Waynesboro, MS)",2X12-8 #2 SYP KD-HT,2x12,8,2,2025-02-14 00:00:00,265.0
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-02-14 00:00:00,315.0
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-02-14 00:00:00,345.0
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-14 00:00:00,349.836847240487
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-14 00:00:00,324.995673136358
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-15 00:00:00,324.995673136358
+Central,"Littrell Lumber Mill, Inc (Decatur, AL)",6X6-7 #2 SYP HT S4S,6x6,7,2,2025-02-17 00:00:00,399.991997519841
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-17 00:00:00,324.995673136358
+West,"Canfor Southern Pine (Strong, AR)",2X10-18 #1 SYP KD-HT,2x10,18,1,2025-02-18 00:00:00,288.0
+West,"Canfor Southern Pine (Strong, AR)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-02-19 00:00:00,330.0
+West,"Canfor Southern Pine (Strong, AR)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-02-19 00:00:00,330.0
+West,"Canfor Southern Pine (Strong, AR)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-19 00:00:00,330.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-19 00:00:00,330.000016927083
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-02-20 00:00:00,665.0
+Central,"Jasper Lumber Co, Inc (Jasper, AL)",4X4-12 #1 SYP KD-HT,4x4,12,1,2025-02-20 00:00:00,430.0
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-02-20 00:00:00,475.0
+East,"Griffin Lumber Company, Inc. (Cordele, GA)",5/4X6-12 #2 NGM SYP KD-HT,4x6,12,2,2025-02-20 00:00:00,310.0
+East,"Griffin Lumber Company, Inc. (Cordele, GA)",5/4X6-10 #2 NGM SYP KD-HT,4x6,10,2,2025-02-20 00:00:00,310.0
+West,"Doman Lumber (Rison, AR)",1X6-12 #2 SYP KD-HT S4S,1x6,12,2,2025-02-20 00:00:00,630.0
+Central,"Interfor US, Inc (Bay Springs, MS)",2X6-6 #2 SYP KD-HT,2x6,6,2,2025-02-20 00:00:00,327.829878038194
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-02-20 00:00:00,325.009189812907
+West,"Doman Lumber (Caddo Mills, TX)",1X4-8 #2 SYP Treated,1x4,8,2,2025-02-21 00:00:00,870.0
+West,"Doman Lumber (Caddo Mills, TX)",2X12-10 #2 SYP Treated,2x12,10,2,2025-02-21 00:00:00,600.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #1 SYP KD-HT,4x4,12,1,2025-02-21 00:00:00,430.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-02-21 00:00:00,335.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-02-21 00:00:00,350.0
+Central,"Gloster Forest Products (Gloster, MS)",2X10-8 #2 SYP KD-HT,2x10,8,2,2025-02-21 00:00:00,279.97893133349
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-02-24 00:00:00,325.018137172833
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-02-24 00:00:00,310.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-02-24 00:00:00,310.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-02-24 00:00:00,310.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-02-24 00:00:00,310.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-20 #2 SYP KD-HT,2x8,20,2,2025-02-24 00:00:00,330.000016927083
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-20 #2 SYP KD-HT,2x8,20,2,2025-02-24 00:00:00,330.000016927083
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-20 #2 SYP KD-HT,2x8,20,2,2025-02-24 00:00:00,330.000016927083
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-20 #2 SYP KD-HT,2x8,20,2,2025-02-24 00:00:00,330.000016927083
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-8 #2 SYP,4x4,8,2,2025-02-24 00:00:00,595.323387569297
+West,"Doman Lumber (Russellville, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-02-24 00:00:00,530.0
+West,"Coushatta Forest Products, LLC (Coushatta, LA)",4X6-14 #2 SYP,4x6,14,2,2025-02-24 00:00:00,485.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-02-24 00:00:00,430.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-02-24 00:00:00,325.01410651504
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-24 00:00:00,325.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-24 00:00:00,325.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-24 00:00:00,325.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-24 00:00:00,324.008901343443
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-02-24 00:00:00,350.009437072447
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-02-24 00:00:00,350.009437072447
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-25 00:00:00,322.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-14 #2 SYP,4x6,14,2,2025-02-25 00:00:00,475.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-02-25 00:00:00,530.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #1 SYP KD-HT,4x4,14,1,2025-02-25 00:00:00,412.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-02-26 00:00:00,430.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-26 00:00:00,324.995673136358
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-02-27 00:00:00,665.0
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-02-27 00:00:00,675.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-02-27 00:00:00,320.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-02-27 00:00:00,325.05078918581
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-27 00:00:00,325.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-27 00:00:00,325.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-02-27 00:00:00,345.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-02-27 00:00:00,355.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-02-27 00:00:00,324.995673136358
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-27 00:00:00,330.000016927083
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-27 00:00:00,330.000016927083
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-8 #1 SYP KD-HT,2x4,8,1,2025-02-28 00:00:00,470.141568981064
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-02-28 00:00:00,400.072484673639
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-02-28 00:00:00,455.000386349002
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-02-28 00:00:00,460.052287581699
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-16 #2 SYP KD-HT,4x4,16,2,2025-02-28 00:00:00,540.024380239791
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-02-28 00:00:00,320.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-02-28 00:00:00,325.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-28 00:00:00,325.000024414063
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-28 00:00:00,325.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-28 00:00:00,325.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-02-28 00:00:00,325.0
+Central,"Gloster Forest Products (Gloster, MS)",2X10-8 #2 SYP KD-HT,2x10,8,2,2025-02-28 00:00:00,280.099959819635
+East,"Canfor Southern Pine (Graham, NC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-03 00:00:00,385.0
+East,"Canfor Southern Pine (Camden, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-03 00:00:00,375.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-03-03 00:00:00,320.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-03-03 00:00:00,320.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-03-03 00:00:00,320.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-03-03 00:00:00,320.0
+West,"Coushatta Forest Products, LLC (Coushatta, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-03-03 00:00:00,365.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-03 00:00:00,520.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-03 00:00:00,330.000016927083
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-03 00:00:00,349.999987980769
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-03-04 00:00:00,420.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-03-04 00:00:00,450.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-03-04 00:00:00,428.571428571429
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #1 SYP KD-HT,4x4,12,1,2025-03-04 00:00:00,425.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #1 SYP KD-HT,4x4,14,1,2025-03-04 00:00:00,424.883424908425
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #1 SYP KD-HT,4x4,12,1,2025-03-04 00:00:00,425.0
+West,"Doman Lumber (Rison, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-03-04 00:00:00,530.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-04 00:00:00,360.0
+East,"Georgia-Pacific Corp. (Rome, GA)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-03-05 00:00:00,415.049903834595
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-8 #2 SYP,4x4,8,2,2025-03-05 00:00:00,540.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-03-05 00:00:00,420.005757017005
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-03-05 00:00:00,627.788943359375
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-03-05 00:00:00,792.788876488095
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-03-05 00:00:00,857.788916015625
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-06 00:00:00,485.0
+Central,"West Fraser Mills Ltd. (Opelika, AL)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-06 00:00:00,325.0
+Central,"West Fraser Mills Ltd. (Opelika, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-06 00:00:00,325.01410651504
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-03-06 00:00:00,385.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-06 00:00:00,350.009272232754
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-06 00:00:00,350.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-06 00:00:00,355.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X6-14 #2 SYP,4x6,14,2,2025-03-07 00:00:00,485.0
+Central,"West Fraser Mills Ltd. (Maplesville, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-07 00:00:00,345.0
+Central,"West Fraser Mills Ltd. (Maplesville, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-07 00:00:00,345.0
+Central,"West Fraser Mills Ltd. (Maplesville, AL)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-07 00:00:00,345.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-07 00:00:00,500.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-8 #1 SYP KD-HT,2x4,8,1,2025-03-07 00:00:00,439.905559132861
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-07 00:00:00,360.009849171681
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-03-07 00:00:00,469.55314217033
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-07 00:00:00,355.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-07 00:00:00,355.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-07 00:00:00,350.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-07 00:00:00,325.0
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-03-10 00:00:00,675.0
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-03-10 00:00:00,650.434782608696
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-10 00:00:00,552.287615368105
+West,"Potlatch Land & Lumber, LLC (Warren, AR)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-03-10 00:00:00,414.962724240512
+West,"Potlatch Land & Lumber, LLC (Warren, AR)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-03-10 00:00:00,414.962634093572
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-03-10 00:00:00,439.672952106223
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-03-10 00:00:00,370.749660326087
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-10 00:00:00,426.07057597986
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-10 00:00:00,325.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-03-10 00:00:00,370.820703125
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-10 00:00:00,375.862658778882
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-10 00:00:00,403.644886714092
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-10 00:00:00,325.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-03-10 00:00:00,320.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-10 00:00:00,355.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-10 00:00:00,350.009272232754
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-10 00:00:00,350.009437072447
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-10 00:00:00,355.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-18 #2 Prime SYP KD-HT S4S,2x6,18,2,2025-03-10 00:00:00,390.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-20 #1 SYP KD-HT,2x8,20,1,2025-03-11 00:00:00,360.000043402778
+West,"Coushatta Forest Products, LLC (Coushatta, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-11 00:00:00,325.025392608798
+West,"Coushatta Forest Products, LLC (Coushatta, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-11 00:00:00,335.0
+Central,"Westervelt Lumber Division (Moundville, AL)",4X6-14 #2 SYP,4x6,14,2,2025-03-11 00:00:00,465.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-03-11 00:00:00,540.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-8 #1 SYP KD-HT,2x4,8,1,2025-03-12 00:00:00,470.141268409979
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-03-12 00:00:00,405.000024038462
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-12 00:00:00,460.11851880474
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-03-12 00:00:00,450.000018030201
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-03-12 00:00:00,424.999978632479
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-03-12 00:00:00,460.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-14 #2 SYP,4x6,14,2,2025-03-12 00:00:00,569.626959325397
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-12 00:00:00,330.0
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-12 00:00:00,330.0
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-12 00:00:00,330.000016424006
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-12 00:00:00,330.0
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-12 00:00:00,330.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-03-12 00:00:00,491.59453125
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-03-12 00:00:00,516.59453125
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-12 00:00:00,546.688445818307
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-03-12 00:00:00,611.594501201923
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-14 #2 SYP,4x6,14,2,2025-03-12 00:00:00,505.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-12 00:00:00,360.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-03-12 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-12 00:00:00,425.07298643311
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-03-12 00:00:00,500.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-12 00:00:00,354.99995782726
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-12 06:00:00,354.99995782726
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-03-13 00:00:00,310.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-03-13 00:00:00,310.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-13 00:00:00,360.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-13 00:00:00,360.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-03-13 00:00:00,420.005757017005
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-03-13 00:00:00,420.005757017005
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-13 00:00:00,325.01410651504
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-03-13 00:00:00,420.005757017005
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-13 00:00:00,360.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-13 00:00:00,354.99995782726
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-13 00:00:00,354.99995782726
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-03-14 00:00:00,620.026910890229
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-03-14 00:00:00,620.026910890229
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-03-14 00:00:00,620.026910890229
+West,"Potlatch Land & Lumber, LLC (Waldo, AR)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-14 00:00:00,325.01410651504
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-03-14 00:00:00,360.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-03-14 00:00:00,480.199390750485
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-03-14 00:00:00,467.780539772727
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-14 00:00:00,526.797444879456
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-03-14 00:00:00,541.743088942308
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-14 00:00:00,371.091264204546
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-14 00:00:00,371.174252717391
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-14 00:00:00,330.000016867898
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-03-14 00:00:00,370.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-14 00:00:00,330.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-03-14 00:00:00,370.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-14 00:00:00,391.464510830966
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-03-14 00:00:00,470.610969387755
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-14 00:00:00,360.009849171681
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-14 00:00:00,360.009849171681
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-03-14 00:00:00,354.99995782726
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-14 00:00:00,360.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-14 00:00:00,360.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-03-14 00:00:00,360.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-17 00:00:00,325.05078918581
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-03-17 00:00:00,360.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-03-17 00:00:00,440.157951676884
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-03-17 00:00:00,445.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-17 00:00:00,475.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-03-17 00:00:00,475.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-03-17 00:00:00,430.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-17 00:00:00,325.01336403635
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-14 #2 SYP,4x6,14,2,2025-03-18 00:00:00,495.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-16 #2 SYP KD-HT,4x4,16,2,2025-03-18 00:00:00,500.093023255814
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-18 #2 SYP KD-HT,4x4,18,2,2025-03-18 00:00:00,485.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-20 #2 SYP KD-HT,4x4,20,2,2025-03-18 00:00:00,585.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-03-18 00:00:00,540.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-18 00:00:00,539.999967633928
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-14 #2 SYP,4x6,14,2,2025-03-18 00:00:00,510.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-03-18 00:00:00,555.0
+Central,"WoodPerfect (Albertville, AL)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-03-18 00:00:00,405.0
+West,"Eastex Forest Products (Houston, TX)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-03-19 00:00:00,660.253943824548
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-03-19 00:00:00,405.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-19 00:00:00,490.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-19 00:00:00,490.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-03-19 00:00:00,330.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-03-19 00:00:00,370.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-03-19 00:00:00,360.0
+Central,"Littrell Lumber Mill, Inc (Decatur, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-03-20 00:00:00,415.714285714286
+Central,"Rex Lumber Troy, LLC (Troy, AL)",2X12-16 #2 SYP KD-HT,2x12,16,2,2025-03-20 00:00:00,380.000016818576
+Central,"Rex Lumber Troy, LLC (Troy, AL)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-03-20 00:00:00,480.107955826009
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-20 00:00:00,335.0
+East,"Canfor Southern Pine (Estill, SC)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-03-21 00:00:00,378.177083333333
+East,"Canfor Southern Pine (Estill, SC)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-21 00:00:00,393.177056361607
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-03-21 00:00:00,350.005005726891
+Central,"Gloster Forest Products (Gloster, MS)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-03-21 00:00:00,492.025624267556
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-03-24 00:00:00,397.307291666667
+West,"Coushatta Forest Products, LLC (Coushatta, LA)",4X4-8 #2 SYP,4x4,8,2,2025-03-24 00:00:00,574.723557692308
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-03-25 00:00:00,527.240806216193
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-03-25 00:00:00,597.195537860577
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-03-25 00:00:00,539.005784254808
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-03-25 00:00:00,471.780563186813
+West,"Canfor Southern Pine (Deridder, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-03-25 00:00:00,340.0
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-10 #2 SYP KD-HT,1x4,10,2,2025-03-26 00:00:00,620.026910890229
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-03-26 00:00:00,330.000016424006
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-03-26 00:00:00,330.000016424006
+East,"Beasley Forest Prod - Yawn (Hazlehurst, GA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-26 00:00:00,365.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-26 00:00:00,335.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-03-26 00:00:00,375.010261270914
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-03-27 00:00:00,390.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-03-27 00:00:00,390.0
+East,"Interfor US, Inc (Eatonton, GA)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-03-27 00:00:00,388.697916666667
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #1 SYP KD-HT,4x4,12,1,2025-03-27 00:00:00,525.416696428571
+Central,"Gloster Forest Products (Gloster, MS)",2X10-16 #1 SYP KD-HT,2x10,16,1,2025-03-27 00:00:00,414.941452210191
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-03-28 00:00:00,390.0
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-03-28 00:00:00,343.75
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-03-28 00:00:00,509.52380952381
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-20 #2 SYP Treated,6x6,20,2,2025-03-28 00:00:00,860.0
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-03-31 00:00:00,699.999968927557
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-03-31 00:00:00,476.813974918867
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-31 00:00:00,330.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-03-31 00:00:00,330.128956623681
+East,"Interfor US, Inc (Thomaston, GA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-03-31 00:00:00,393.697916666667
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-03-31 00:00:00,484.047619047619
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-03-31 00:00:00,898.867838541667
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-03-31 00:00:00,1008.86770833333
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-03-31 00:00:00,508.867734375
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-03-31 00:00:00,478.867740885417
+Central,"Trimjoist Corporation (Columbus, MS)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-03-31 00:00:00,390.019155649038
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-01 00:00:00,557.395833333333
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-01 00:00:00,557.395833333333
+West,"West Fraser Mills Ltd (Joyce, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-02 00:00:00,325.01410651504
+West,"West Fraser Mills Ltd (Joyce, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-02 00:00:00,325.01410651504
+West,"West Fraser Mills Ltd (Joyce, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-02 00:00:00,335.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-14 #2 SYP,4x6,14,2,2025-04-02 00:00:00,483.516483516484
+Central,"Hardy Technologies, LLC (Lumberton, MS)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-04-02 00:00:00,370.007568359375
+Central,"Hardy Technologies, LLC (Lumberton, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-04-02 00:00:00,475.096123506874
+Central,"Austell Forest Products Inc (Gordo, AL)",1X4-8 #2 SYP KD-HT,1x4,8,2,2025-04-03 00:00:00,699.999968927557
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-04-03 00:00:00,325.000024414063
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-03 00:00:00,330.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-03 00:00:00,330.0
+West,"Coushatta Forest Products, LLC (Coushatta, LA)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-03 00:00:00,534.9999765625
+East,"Georgia-Pacific Corp. (Dudley, NC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-04 00:00:00,315.0
+East,"Georgia-Pacific Corp. (Dudley, NC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-04 00:00:00,301.304347826087
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-04 00:00:00,570.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-04 00:00:00,541.5
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-04 00:00:00,375.00509056972
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-04 00:00:00,375.010261270914
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-04 00:00:00,398.75
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-04 00:00:00,375.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-04 00:00:00,375.010261270914
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-04 00:00:00,388.392857142857
+West,"Canfor Southern Pine (Strong, AR)",2X10-14 #1 SYP KD-HT,2x10,14,1,2025-04-07 00:00:00,479.724987722666
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-07 00:00:00,400.101981080049
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-07 00:00:00,400.101981080049
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,532.00003125
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,532.00003125
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-07 00:00:00,560.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-04-07 00:00:00,532.608418367347
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-07 00:00:00,398.75
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-07 00:00:00,385.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-07 00:00:00,405.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-04-07 00:00:00,511.257932692308
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-04-07 00:00:00,516.134958791209
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-07 00:00:00,405.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-07 00:00:00,405.103423408136
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-07 00:00:00,405.103423408136
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-07 00:00:00,388.392857142857
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-14 #2 SYP,4x6,14,2,2025-04-08 00:00:00,495.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-04-08 00:00:00,514.999958147321
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-08 00:00:00,500.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-04-08 00:00:00,514.999958147321
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-08 00:00:00,534.999967447917
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-08 00:00:00,535.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-08 00:00:00,534.999967447917
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-04-08 00:00:00,514.999962797619
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-08 00:00:00,500.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-04-08 00:00:00,560.0
+West,"West Fraser Mills Ltd (Joyce, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-04-08 00:00:00,330.000012313179
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-08 00:00:00,330.014340466166
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-04-08 00:00:00,490.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-08 00:00:00,410.10444152208
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-08 00:00:00,314.0625
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-08 00:00:00,332.382853190104
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-04-09 00:00:00,433.411744505495
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-04-09 00:00:00,330.000016927083
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-09 00:00:00,345.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-09 00:00:00,400.000042925824
+East,"West Fraser Mills Ltd. (Newberry, SC)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-09 00:00:00,360.000043402778
+East,"West Fraser Mills Ltd. (Newberry, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-09 00:00:00,324.999985988451
+East,"West Fraser Mills Ltd. (Newberry, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-09 00:00:00,324.999985988451
+East,"West Fraser Mills Ltd. (Newberry, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-09 00:00:00,324.999985988451
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-04-10 00:00:00,395.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-04-10 00:00:00,395.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-10 00:00:00,319.99998819987
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-04-10 00:00:00,314.999985139266
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-10 00:00:00,337.792438907939
+Central,"Mission Forest Products, LP (Corinth, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-10 00:00:00,337.792438907939
+Central,"Gloster Forest Products (Gloster, MS)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-10 00:00:00,305.869565217391
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-11 00:00:00,433.928571428572
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-11 00:00:00,433.928571428572
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-11 00:00:00,398.75
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-11 00:00:00,394.999958554377
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-11 00:00:00,394.999958554377
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-11 00:00:00,388.392857142857
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-04-14 00:00:00,324.999982910156
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-04-14 00:00:00,330.032229709933
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-14 00:00:00,330.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-04-14 00:00:00,470.0
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-14 00:00:00,419.803987612947
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-04-14 00:00:00,848.546505456349
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-04-14 00:00:00,943.546569010417
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP Treated,2x6,12,2,2025-04-14 00:00:00,613.546526692708
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-04-14 00:00:00,578.54654296875
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-14 00:00:00,375.010261270914
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-14 00:00:00,375.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-14 00:00:00,375.010467320531
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-14 #2 SYP,4x6,14,2,2025-04-15 00:00:00,500.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-04-15 00:00:00,450.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-04-15 00:00:00,567.989583333333
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-04-15 00:00:00,410.00004451567
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-15 00:00:00,420.106863784839
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-14 #2 SYP,4x6,14,2,2025-04-15 00:00:00,475.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-20 #2 Prime SYP KD-HT S4S,2x6,20,2,2025-04-15 00:00:00,407.944078947368
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-16 #2 SYP Treated,2x4,16,2,2025-04-15 00:00:00,708.665221996845
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-16 #2 SYP Treated,2x6,16,2,2025-04-15 00:00:00,628.665205078125
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-18 #2 SYP Treated,2x4,18,2,2025-04-15 00:00:00,648.665248397436
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-18 #2 SYP Treated,2x4,18,2,2025-04-15 00:00:00,648.665252403846
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-18 #2 SYP Treated,2x4,18,2,2025-04-15 00:00:00,648.665224358974
+West,"Hatfield Lumber Co (Hatfield, AR)",2X4-18 #2 SYP Treated,2x4,18,2,2025-04-15 00:00:00,648.665249198718
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-18 #2 SYP Treated,2x6,18,2,2025-04-15 00:00:00,593.665238715278
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-18 #2 SYP Treated,2x6,18,2,2025-04-15 00:00:00,593.665234375
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-18 #2 SYP Treated,2x6,18,2,2025-04-15 00:00:00,593.665245659722
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-18 #2 SYP Treated,2x6,18,2,2025-04-15 00:00:00,593.665237847222
+West,"Boise Building Solutions/Distribution (Tulsa, OK)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-15 00:00:00,506.09632034632
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-04-15 00:00:00,512.530270655271
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-04-15 00:00:00,444.942730199614
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-15 00:00:00,375.010467320531
+Central,"Gloster Forest Products (Gloster, MS)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-15 00:00:00,355.0
+Central,"Gloster Forest Products (Gloster, MS)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-15 00:00:00,283.043488875679
+West,"Doman Lumber (Russellville, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-04-16 00:00:00,590.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-04-16 00:00:00,490.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-16 00:00:00,395.010714580071
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-16 00:00:00,375.00509056972
+Central,"Gloster Forest Products (Gloster, MS)",2X10-16 #1 SYP KD-HT,2x10,16,1,2025-04-16 00:00:00,409.038438592005
+Central,"Gloster Forest Products (Gloster, MS)",2X10-16 #1 SYP KD-HT,2x10,16,1,2025-04-16 00:00:00,449.936530258285
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-17 00:00:00,466.346153846154
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-17 00:00:00,534.4
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-17 00:00:00,571.45
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-17 00:00:00,571.260416666667
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-04-17 00:00:00,524.999958147321
+Central,"Westervelt Lumber Division (Moundville, AL)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-17 00:00:00,419.803987612947
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-17 00:00:00,375.010467320531
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-17 00:00:00,394.999958554377
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-04-17 00:00:00,565.005408816371
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-04-17 00:00:00,375.010467320531
+Central,"Gloster Forest Products (Gloster, MS)",2X10-16 #2 SYP KD-HT,2x10,16,2,2025-04-17 00:00:00,446.320207960453
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-16 #2 SYP,4x6,16,2,2025-04-18 00:00:00,495.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-04-18 00:00:00,360.972222222222
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-18 00:00:00,394.999958554377
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-21 00:00:00,362.240149456522
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-21 00:00:00,362.240149456522
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-21 00:00:00,300.0
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-21 00:00:00,362.240149456522
+East,"Interfor US, Inc (Perry, GA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-04-21 00:00:00,388.40200390625
+East,"Interfor US, Inc (Perry, GA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-04-21 00:00:00,383.401984863281
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-21 00:00:00,256.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-04-21 00:00:00,335.000020073785
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-21 00:00:00,398.75
+Central,"Gloster Forest Products (Gloster, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-21 00:00:00,420.10698680694
+Central,"Gloster Forest Products (Gloster, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-21 00:00:00,420.106863784839
+Central,"Gloster Forest Products (Gloster, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-21 00:00:00,379.464285714286
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-22 00:00:00,345.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-22 00:00:00,334.999986837636
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-22 00:00:00,345.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,500.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,446.428571428571
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,500.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,446.428571428571
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,410.714285714286
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,482.142857142857
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,500.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,500.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,464.285714285714
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-04-22 00:00:00,500.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-22 00:00:00,306.086956521739
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-22 00:00:00,320.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-22 00:00:00,306.086956521739
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-22 00:00:00,320.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-22 00:00:00,320.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-22 00:00:00,364.960069444444
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-22 00:00:00,320.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-04-22 00:00:00,360.972222222222
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-04-22 00:00:00,484.937566001288
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-04-22 00:00:00,440.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-04-22 00:00:00,449.999098449333
+East,"Canfor Southern Pine (Estill, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-22 00:00:00,333.084239130435
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-04-23 00:00:00,505.00023378373
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-23 00:00:00,286.95652173913
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X6-8 #2 Prime SYP,2x6,8,2,2025-04-23 00:00:00,334.999986837636
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-23 00:00:00,345.0
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-04-23 00:00:00,520.042614218398
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-23 00:00:00,534.999967447917
+East,"Canfor Southern Pine (Estill, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-23 00:00:00,333.084239130435
+East,"Canfor Southern Pine (Estill, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-24 00:00:00,333.084239130435
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-25 00:00:00,445.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-04-25 00:00:00,505.01879461329
+East,"Georgia-Pacific Corp. (Rome, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-25 00:00:00,315.652189622962
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,394.999958554377
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,394.999958554377
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,394.999958554377
+East,"Canfor Southern Pine (Estill, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-25 00:00:00,333.084239130435
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,385.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,385.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,385.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-25 00:00:00,359.333333333333
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-26 00:00:00,375.00509056972
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-28 00:00:00,445.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-28 00:00:00,450.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-04-28 00:00:00,460.018406186145
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-04-28 00:00:00,465.018630554109
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-28 00:00:00,539.423076923077
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-28 00:00:00,598.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-28 00:00:00,598.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-28 00:00:00,598.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-28 00:00:00,598.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-28 00:00:00,490.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-28 00:00:00,478.863636363636
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-28 00:00:00,467.727272727273
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-28 00:00:00,490.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-28 00:00:00,490.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-28 00:00:00,570.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-04-28 00:00:00,529.615384615385
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-04-28 00:00:00,467.727272727273
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-28 00:00:00,375.00509056972
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-28 00:00:00,394.999958554377
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-04-29 00:00:00,505.00023378373
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-04-29 00:00:00,561.029411764706
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-04-29 00:00:00,545.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-04-29 00:00:00,561.029411764706
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-04-29 00:00:00,545.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-04-29 00:00:00,545.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-04-29 00:00:00,598.5
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-04-29 00:00:00,545.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-04-29 00:00:00,434.999975961539
+West,"Canfor Southern Pine (Deridder, LA)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-04-29 00:00:00,440.019877400162
+West,"Canfor Southern Pine (Deridder, LA)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-04-29 00:00:00,440.019877400162
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-29 00:00:00,394.999958554377
+Central,"Gloster Forest Products (Gloster, MS)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-04-29 00:00:00,425.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-04-30 00:00:00,453.333333333333
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-04-30 00:00:00,330.089425763995
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X10-8 #2 SYP KD-HT,2x10,8,2,2025-04-30 00:00:00,320.970197566693
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-30 00:00:00,385.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-04-30 00:00:00,398.75
+East,"Roseburg Forest Products (Weldon, NC)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-04-30 00:00:00,393.697916666667
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-05-01 00:00:00,505.021717106675
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-01 00:00:00,445.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-05-01 00:00:00,484.999975961539
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-05-01 00:00:00,524.999962797619
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-05-01 00:00:00,525.0
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-05-01 00:00:00,468.928571428571
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-05-01 00:00:00,537.957820118828
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-05-01 00:00:00,958.867838541667
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-01 00:00:00,1013.86774739583
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-05-01 00:00:00,518.867727864583
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-05-01 00:00:00,483.867759114583
+Central,"Mission Forest Products, LP (Corinth, MS)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-05-01 00:00:00,355.000042925824
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-01 00:00:00,398.75
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-05-01 00:00:00,564.876894079082
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-05-01 00:00:00,435.0
+Central,"Gloster Forest Products (Gloster, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-01 00:00:00,322.826103515625
+Central,"Gloster Forest Products (Gloster, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-01 00:00:00,330.015148214532
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-05-02 00:00:00,484.999975961539
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-05-02 00:00:00,505.000480769231
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-05-02 00:00:00,544.929491307148
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-02 00:00:00,410.010932992665
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-02 00:00:00,394.999958554377
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-02 00:00:00,394.999958554377
+East,"Roseburg Forest Products (Weldon, NC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-02 00:00:00,354.150815217391
+West,"Cal-Tex Lumber Co. (Nacogdoches, TX)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-05-05 00:00:00,575.00020487605
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-05 00:00:00,475.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-05 00:00:00,475.0
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-05-05 00:00:00,445.410529162535
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",4X6-14 #2 SYP,4x6,14,2,2025-05-05 00:00:00,485.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-05-05 00:00:00,325.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-05-05 00:00:00,320.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-05-05 00:00:00,325.0
+East,"Canfor Southern Pine (Estill, SC)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-05 00:00:00,333.084239130435
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-05 00:00:00,410.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-06 00:00:00,486.995192307692
+Central,"Westervelt Lumber Division (Moundville, AL)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-06 00:00:00,510.0
+Central,"Westervelt Lumber Division (Moundville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-05-06 00:00:00,500.0
+Central,"Westervelt Lumber Division (Moundville, AL)",4X6-16 #2 SYP,4x6,16,2,2025-05-06 00:00:00,500.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-05-06 00:00:00,325.0
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-10 #2 SYP Treated,6x6,10,2,2025-05-06 00:00:00,1033.18836458333
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-10 #2 SYP Treated,6x6,10,2,2025-05-06 00:00:00,1033.18838541667
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-06 00:00:00,1179.21197916667
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-10 #2 SYP Treated,6x6,10,2,2025-05-06 00:00:00,1033.1883875
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-10 #2 SYP Treated,6x6,10,2,2025-05-06 00:00:00,1033.18833333333
+Central,"Interfor US, Inc (Belk, AL)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-05-06 00:00:00,561.864372054907
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-06 00:00:00,470.779220779221
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-06 00:00:00,470.779220779221
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-06 00:00:00,470.779220779221
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-06 00:00:00,470.779220779221
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-06 00:00:00,470.779220779221
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-05-07 00:00:00,512.951444376152
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-14 #2 SYP,4x6,14,2,2025-05-07 00:00:00,465.0
+Central,"Vicksburg Forest Products, LLC (Vicksburg, MS)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-05-07 00:00:00,551.216168091168
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-07 00:00:00,335.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X8-8 #2 Prime SYP KD-HT,2x8,8,2,2025-05-07 00:00:00,335.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X8-12 #2 Prime SYP KD-HT,2x8,12,2,2025-05-07 00:00:00,335.0
+West,"Eastex Forest Products (Houston, TX)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-05-08 00:00:00,675.259715275106
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-08 00:00:00,397.965494791667
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-08 00:00:00,397.965494791667
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-08 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-08 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-08 00:00:00,380.005514783863
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-08 00:00:00,380.005514783863
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-08 00:00:00,434.999970479082
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-08 00:00:00,413.249971955128
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-08 00:00:00,434.999970479082
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-09 00:00:00,404.999978862732
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-05-09 00:00:00,315.0
+Central,"Two Rivers Lumber Company, LLC (Demopolis, AL)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-09 00:00:00,451.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-05-12 00:00:00,383.167067307692
+East,"Interfor US, Inc (Baxley, GA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-12 00:00:00,344.042144886364
+East,"Interfor US, Inc (Baxley, GA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-12 00:00:00,368.446370442708
+East,"Interfor US, Inc (Eatonton, GA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-12 00:00:00,383.046875
+East,"Interfor US, Inc (Eatonton, GA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-12 00:00:00,373.046875
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-12 00:00:00,825.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-12 00:00:00,825.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-12 00:00:00,766.071428571429
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-12 00:00:00,825.0
+Central,"Lincoln Lumber Co, Inc (Brookhaven, MS)",8X8-16 #2 SYP KD-HT,8x8,16,2,2025-05-12 00:00:00,750.043947029181
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-12 #1 SYP KD-HT,2x6,12,1,2025-05-12 00:00:00,487.527777777778
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-05-12 00:00:00,497.527781808036
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-18 #1 SYP KD-HT,2x6,18,1,2025-05-12 00:00:00,462.527777777778
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-20 #1 SYP KD-HT,2x6,20,1,2025-05-12 00:00:00,482.527799804688
+West,"Doman Lumber (Russellville, AR)",1X6-14 #2 SYP KD-HT S4S,1x6,14,2,2025-05-13 00:00:00,645.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-05-13 00:00:00,462.857142857143
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-05-13 00:00:00,462.857142857143
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-13 00:00:00,315.012858631017
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-13 00:00:00,315.012858631017
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-13 00:00:00,315.012858631017
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-13 00:00:00,315.000012586806
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-13 00:00:00,315.012858631017
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-05-13 00:00:00,325.013983220136
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-05-13 00:00:00,325.013983220136
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-05-13 00:00:00,579.323023528351
+West,"Canfor Southern Pine (Deridder, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-05-13 00:00:00,471.252575549451
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-13 00:00:00,345.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-05-13 00:00:00,505.317475853187
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-8 #1 SYP KD-HT,2x4,8,1,2025-05-13 00:00:00,540.01945248375
+Central,"Gloster Forest Products (Gloster, MS)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-05-13 00:00:00,551.569480753628
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-14 00:00:00,347.55859375
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-14 00:00:00,347.664741847826
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-14 00:00:00,347.664741847826
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-14 00:00:00,347.664741847826
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-14 00:00:00,347.664741847826
+West,"Doman Lumber (Caddo Mills, TX)",2X4-10 #1 SYP Fire Retardant,2x4,10,1,2025-05-14 00:00:00,785.000036057692
+East,"Griffin Lumber Company, Inc. (Cordele, GA)",5/4X6-10 #2 NGM SYP KD-HT,4x6,10,2,2025-05-14 00:00:00,330.0
+East,"Griffin Lumber Company, Inc. (Cordele, GA)",5/4X6-12 #2 NGM SYP KD-HT,4x6,12,2,2025-05-14 00:00:00,330.000017361111
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-14 00:00:00,410.009927470535
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-14 00:00:00,345.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-14 00:00:00,455.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-14 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-14 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-14 00:00:00,410.010327206791
+Central,"Gloster Forest Products (Gloster, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-05-14 00:00:00,464.721524318449
+Central,"WoodPerfect (Albertville, AL)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-15 00:00:00,330.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-15 00:00:00,404.999978862732
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-15 00:00:00,404.999978862732
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-15 00:00:00,380.000042925824
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-15 00:00:00,404.999978862732
+Central,"Rex Lumber Troy, LLC (Troy, AL)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-05-15 00:00:00,290.000012586806
+Central,"Rex Lumber Troy, LLC (Troy, AL)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-05-15 00:00:00,290.000012586806
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-05-15 00:00:00,1083.92239583333
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-05-15 00:00:00,468.922421875
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-05-15 00:00:00,445.019102811762
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-15 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-15 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-15 00:00:00,380.005514783863
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 Prime SYP KD-HT,2x4,16,2,2025-05-15 00:00:00,491.597660315509
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 Prime SYP KD-HT,2x4,16,2,2025-05-15 00:00:00,515.00717066175
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-05-15 00:00:00,445.019102811762
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X8-14 #2 SYP KD-HT,2x8,14,2,2025-05-16 00:00:00,347.853708791209
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X8-14 #2 SYP KD-HT,2x8,14,2,2025-05-16 00:00:00,347.853708791209
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-05-16 00:00:00,320.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-16 00:00:00,395.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-16 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-16 00:00:00,380.005514783863
+Central,"Gloster Forest Products (Gloster, MS)",2X10-12 #2 SYP KD-HT,2x10,12,2,2025-05-16 00:00:00,435.9375
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-19 00:00:00,348.002485795455
+East,"Georgia-Pacific Corp. (Warrenton, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-19 00:00:00,348.08933423913
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-19 00:00:00,362.958962128377
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-19 00:00:00,362.958962128377
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-05-19 00:00:00,319.99998819987
+Central,"Southeast Forest Products Mfg, Inc (Louisville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-19 00:00:00,406.015037593985
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #2 SYP KD-HT,2x4,18,2,2025-05-19 00:00:00,410.00004451567
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-19 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-19 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-19 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-19 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-19 00:00:00,457.142903645833
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-05-20 00:00:00,480.424376906922
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-05-20 00:00:00,477.424416531284
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-05-20 00:00:00,447.619047619048
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-05-20 00:00:00,434.960650860903
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-05-20 00:00:00,425.897463942308
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-05-20 00:00:00,473.219404380342
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-05-20 00:00:00,473.416402900757
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-05-20 00:00:00,529.049281807801
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-05-20 00:00:00,515.105923063713
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 Prime SYP KD-HT,2x8,8,2,2025-05-20 00:00:00,324.999984624335
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X8-16 #1 SYP KD-HT,2x8,16,1,2025-05-21 00:00:00,325.052417385642
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X8-16 #2 Prime SYP KD-HT,2x8,16,2,2025-05-21 00:00:00,325.018211064514
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-05-21 00:00:00,301.999914148352
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-05-21 00:00:00,301.999914148352
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-05-21 00:00:00,301.999914148352
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-05-21 00:00:00,250.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-21 00:00:00,455.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-21 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-21 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-21 00:00:00,365.005557205277
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-21 00:00:00,365.005557205277
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X4-8 #2 NGM SYP KW,2x4,8,2,2025-05-22 00:00:00,249.010867932088
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-22 00:00:00,360.009890381604
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-05-22 00:00:00,553.506054131054
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-22 00:00:00,472.560096153846
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-22 00:00:00,410.010932992665
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-22 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-22 00:00:00,360.005005726891
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-23 00:00:00,292.499984130859
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-23 00:00:00,295.0
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-14 #2 SYP,4x6,14,2,2025-05-23 00:00:00,400.0
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-14 #2 SYP,4x6,14,2,2025-05-23 00:00:00,400.0
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-23 00:00:00,322.829861111111
+Central,"Weyerhaeuser NR Company (Philadelphia, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-23 00:00:00,322.829861111111
+West,"West Fraser Mills Ltd (Joyce, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-23 00:00:00,311.013498849776
+West,"West Fraser Mills Ltd (Joyce, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-05-23 00:00:00,311.013498849776
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-23 00:00:00,404.999978862732
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-23 00:00:00,359.885642462705
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-23 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-23 00:00:00,365.009437072447
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-23 00:00:00,365.009643122064
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-23 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-23 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-23 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-23 00:00:00,457.142903645833
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-23 00:00:00,434.285714285714
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-26 00:00:00,360.009890381604
+West,"Snider Industries, LLP (Marshall, TX)",1X4-14 #2 SYP KD-HT S4S,1x4,14,2,2025-05-27 00:00:00,620.0
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X4-12 #2 SYP,4x4,12,2,2025-05-27 00:00:00,475.0
+Central,"Lincoln Lumber Co, Inc (Brookhaven, MS)",8X8-16 #2 SYP KD-HT,8x8,16,2,2025-05-27 00:00:00,750.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-28 00:00:00,404.999978862732
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-28 00:00:00,404.999978862732
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-05-28 00:00:00,250.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-05-28 00:00:00,360.009890381604
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-28 00:00:00,440.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-28 00:00:00,440.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-28 00:00:00,414.285714285714
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-05-28 00:00:00,414.285714285714
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-05-28 00:00:00,450.027044894525
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X10-18 #2 SYP KD-HT,2x10,18,2,2025-05-28 00:00:00,305.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-28 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-28 00:00:00,395.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-28 00:00:00,395.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-28 00:00:00,370.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-05-28 00:00:00,370.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-29 00:00:00,435.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-29 00:00:00,380.000042925824
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-05-29 00:00:00,410.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-05-29 00:00:00,342.005514783863
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-16 #2 Prime SYP KD-HT,2x8,16,2,2025-05-29 00:00:00,325.013785826504
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-05-29 00:00:00,280.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-05-29 00:00:00,395.720349801061
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,424.285714285714
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-30 00:00:00,439.999952651515
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-05-30 00:00:00,439.999952651515
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-05-30 00:00:00,440.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-05-30 00:00:00,285.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-02 00:00:00,384.615384615385
+East,"Interfor US, Inc (Eatonton, GA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-02 00:00:00,503.069711538462
+East,"Interfor US, Inc (Eatonton, GA)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-06-02 00:00:00,318.069543457031
+East,"Interfor US, Inc (Eatonton, GA)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-06-02 00:00:00,353.127094253622
+East,"Interfor US, Inc (Eatonton, GA)",2X10-16 #2 SYP KD-HT,2x10,16,2,2025-06-02 00:00:00,478.0696109375
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",2X10-14 #1 SYP KD-HT,2x10,14,1,2025-06-02 00:00:00,400.017857940087
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-18 #2 SYP,4x6,18,2,2025-06-02 00:00:00,468.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-06-02 00:00:00,430.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-06-02 00:00:00,453.118694659241
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-06-02 00:00:00,300.01331735251
+West,"Doman Lumber (Caddo Mills, TX)",2X4-8 #1 SYP INT FIRE RATED,2x4,8,1,2025-06-03 00:00:00,805.240396753832
+West,"Doman Lumber (Caddo Mills, TX)",2X4-10 #1 SYP Fire Retardant,2x4,10,1,2025-06-03 00:00:00,730.090695997115
+West,"Doman Lumber (Caddo Mills, TX)",2X4-12 #1 SYP Interior Fire Rated,2x4,12,1,2025-06-03 00:00:00,739.99859775641
+Central,"Littrell Lumber Mill, Inc (Decatur, AL)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-06-03 00:00:00,512.141947428385
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-03 00:00:00,459.999981505102
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-14 #2 SYP,4x6,14,2,2025-06-03 00:00:00,450.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-03 00:00:00,497.836229434302
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-06-03 00:00:00,537.933104940498
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-03 00:00:00,438.095238095238
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-06-04 00:00:00,414.392788151964
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-04 00:00:00,400.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-04 00:00:00,400.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-04 00:00:00,400.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-04 00:00:00,400.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-18 #2 SYP,4x6,18,2,2025-06-04 00:00:00,450.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-06-04 00:00:00,420.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-10 #2 SYP KD-HT,2x6,10,2,2025-06-04 00:00:00,250.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-06-04 00:00:00,287.511698880977
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-06-04 00:00:00,285.0
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-05 00:00:00,346.056699869293
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-05 00:00:00,346.056699869293
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-06-05 00:00:00,346.154275412088
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-06-05 00:00:00,346.154275412088
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-06-05 00:00:00,346.154275412088
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-06-05 00:00:00,346.154275412088
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-05 00:00:00,346.056699869293
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-14 #2 SYP,4x6,14,2,2025-06-05 00:00:00,425.274725274725
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-06-06 00:00:00,424.955402696793
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-06-06 00:00:00,454.241071428571
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-06 00:00:00,325.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-06 00:00:00,325.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-06-10 00:00:00,352.209821428571
+East,"Interfor US, Inc (Preston, GA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-06-10 00:00:00,332.524305555556
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-16 #2 SYP KD-HT,4x4,16,2,2025-06-10 00:00:00,475.022089940938
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-14 #1 SYP HT,4x6,14,1,2025-06-10 00:00:00,435.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-06-10 00:00:00,374.583316454475
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-06-10 00:00:00,435.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-06-10 00:00:00,422.916618441358
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-06-10 00:00:00,398.750024594907
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-06-10 00:00:00,398.750024594907
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-12 #2 SYP HT,4x6,12,2,2025-06-10 00:00:00,398.750024594907
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-06-10 00:00:00,250.0
+East,"Canfor Southern Pine (Moultrie, GA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-06-10 00:00:00,318.224431818182
+East,"Canfor Southern Pine (Moultrie, GA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-06-10 00:00:00,318.224431818182
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-10 00:00:00,514.909264494981
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-06-11 00:00:00,365.00002189217
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-06-11 00:00:00,435.529122129212
+West,"Potlatch Land & Lumber, LLC (Waldo, AR)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-06-12 00:00:00,417.209864354396
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-12 00:00:00,325.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-12 00:00:00,325.0
+Central,"Gloster Forest Products (Gloster, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-12 00:00:00,464.478499954927
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-13 00:00:00,325.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-13 00:00:00,325.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-13 00:00:00,262.29294650952
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-13 00:00:00,262.29294650952
+West,"Potlatch Land & Lumber, LLC (Waldo, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-06-16 00:00:00,350.093892311814
+West,"Potlatch Land & Lumber, LLC (Waldo, AR)",2X10-16 #2 SYP KD-HT,2x10,16,2,2025-06-16 00:00:00,349.952990022099
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-16 00:00:00,285.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-16 00:00:00,285.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-06-16 00:00:00,370.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-16 00:00:00,285.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-06-16 00:00:00,370.0
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-16 00:00:00,285.0
+East,"Charles Ingram (Effingham, SC)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-06-16 00:00:00,525.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-06-16 00:00:00,414.285714285714
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-06-16 00:00:00,414.285714285714
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-06-16 00:00:00,414.285714285714
+East,"Canfor Southern Pine (Estill, SC)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-06-16 00:00:00,328.263905815972
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-16 00:00:00,322.96978021978
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-16 00:00:00,323.005317473475
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-16 00:00:00,322.96978021978
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-16 00:00:00,322.96978021978
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-16 00:00:00,323.005317473475
+Central,"Mid South Lumber, Inc (Meridian, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-06-17 00:00:00,380.03275380983
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-06-17 00:00:00,512.499402669271
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-06-17 00:00:00,450.540340164673
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-06-17 00:00:00,513.311128639683
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-06-17 00:00:00,375.460187502651
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-06-17 00:00:00,392.202257188349
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-18 00:00:00,432.000052083333
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-18 00:00:00,432.000052083333
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-18 00:00:00,456.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-18 00:00:00,504.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-18 00:00:00,456.0
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-06-18 00:00:00,788.579555431548
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-06-18 00:00:00,893.579596354167
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-06-18 00:00:00,463.579578125
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-06-18 00:00:00,398.579554036458
+West,"Canfor Southern Pine (Strong, AR)",2X10-8 #2 SYP KD-HT,2x10,8,2,2025-06-19 00:00:00,347.783383186749
+West,"Eastex Forest Products (Houston, TX)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-06-19 00:00:00,650.250096190843
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-19 00:00:00,515.902479000205
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-06-23 00:00:00,320.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-23 00:00:00,270.004242141433
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-23 00:00:00,270.00441182709
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-23 00:00:00,300.076443388623
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-24 00:00:00,480.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-24 00:00:00,456.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-06-24 00:00:00,456.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-24 00:00:00,270.004242141433
+West,"Canfor Southern Pine (Strong, AR)",2X12-20 #2 SYP KD-HT,2x12,20,2,2025-06-25 00:00:00,410.0
+West,"Canfor Southern Pine (Strong, AR)",2X12-20 #2 SYP KD-HT,2x12,20,2,2025-06-25 00:00:00,410.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-06-25 00:00:00,385.357142857143
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-06-25 00:00:00,415.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-06-25 00:00:00,415.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-25 00:00:00,395.065027658267
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-25 00:00:00,395.065027658267
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-26 00:00:00,405.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-06-26 00:00:00,405.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-14 #2 SYP,4x6,14,2,2025-06-26 00:00:00,400.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-14 #2 SYP,4x6,14,2,2025-06-26 00:00:00,400.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-26 00:00:00,439.999981770833
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-06-26 00:00:00,440.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-06-26 00:00:00,414.285714285714
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-8 #1 SYP KD-HT,4x6,8,1,2025-06-26 00:00:00,440.0
+East,"Dupont Pine Products, LLC (Alapaha, GA)",4X6-16 #2 SYP,4x6,16,2,2025-06-26 00:00:00,440.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-06-27 00:00:00,270.004242141433
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-06-27 00:00:00,778.355167410714
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-06-27 00:00:00,863.3552734375
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-06-27 00:00:00,1058.35525520833
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-06-27 00:00:00,483.35525390625
+West,"Binderholz Timber, LLC (Lake Charles, LA)",2X4-16 #2BTR SPF KD-HT,2x4,16,2,2025-06-27 00:00:00,646.931689342404
+West,"Canfor Southern Pine (Strong, AR)",2X12-20 #2 SYP KD-HT,2x12,20,2,2025-06-30 00:00:00,477.0703125
+West,"Canfor Southern Pine (Strong, AR)",2X12-20 #2 SYP KD-HT,2x12,20,2,2025-06-30 00:00:00,477.0703125
+West,"Doman Lumber (Caddo Mills, TX)",2X4-10 #1 SYP Fire Retardant,2x4,10,1,2025-06-30 00:00:00,730.0
+West,"Doman Lumber (Caddo Mills, TX)",2X4-16 #1 SYP Interior Fire Rated,2x4,16,1,2025-06-30 00:00:00,880.064870407933
+Central,"Hood Industries, Inc. (Silver Creek, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-06-30 00:00:00,300.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-06-30 00:00:00,300.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-06-30 00:00:00,300.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-06-30 00:00:00,309.323715058611
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-30 00:00:00,309.267928236567
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-30 00:00:00,309.230787259615
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-06-30 00:00:00,208.843277091668
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-30 00:00:00,309.254000450755
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-06-30 00:00:00,309.323715058611
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-06-30 00:00:00,309.267928236567
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-06-30 00:00:00,309.230787259615
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-06-30 00:00:00,208.843277091668
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-30 00:00:00,309.254000450755
+East,"Charles Ingram (Effingham, SC)",5/4X6-12 #2 NGM SYP KD-HT,4x6,12,2,2025-06-30 00:00:00,290.0
+Central,"Interfor US, Inc (Belk, AL)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-06-30 00:00:00,353.168636563965
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-06-30 00:00:00,395.065027658267
+West,"Canfor Southern Pine (Strong, AR)",2X12-20 #2 SYP KD-HT,2x12,20,2,2025-07-01 00:00:00,477.0703125
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-01 00:00:00,310.714273265797
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-01 00:00:00,329.957587465121
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-10 #1 SYP KD-HT,2x6,10,1,2025-07-01 00:00:00,380.65971875
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-12 #1 SYP KD-HT,2x6,12,1,2025-07-01 00:00:00,430.659722222222
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-14 #1 SYP KD-HT,2x6,14,1,2025-07-01 00:00:00,425.659737723214
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X6-16 #1 SYP KD-HT,2x6,16,1,2025-07-01 00:00:00,445.659711914063
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-8 #2 SYP Treated,6x6,8,2,2025-07-02 00:00:00,745.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-07-02 00:00:00,275.007335366356
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-02 00:00:00,284.999982591712
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-02 00:00:00,285.00037400266
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-07-02 00:00:00,275.007335366356
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-03 00:00:00,364.99964338075
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-03 00:00:00,364.99964338075
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-03 00:00:00,364.99964338075
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-03 00:00:00,341.545557617187
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-07-03 00:00:00,331.545428240741
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-8 #2 SYP,4x4,8,2,2025-07-03 00:00:00,375.016902551158
+West,"West Fraser Mills Ltd. (Henderson, TX)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-03 00:00:00,350.015024683408
+West,"West Fraser Mills Ltd (New Boston, TX)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-03 00:00:00,310.000016867898
+West,"West Fraser Mills Ltd (New Boston, TX)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-07-03 00:00:00,290.02517579651
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-07-03 00:00:00,415.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-07-03 00:00:00,415.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-07-03 00:00:00,415.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-07-03 00:00:00,415.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-03 00:00:00,355.004708776991
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-07-03 00:00:00,300.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #2 Prime SYP KD-HT,2x4,18,2,2025-07-03 00:00:00,300.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-07-03 00:00:00,275.007222863266
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-8 #2 SYP,4x4,8,2,2025-07-07 00:00:00,375.016902551158
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-07 00:00:00,289.99998838141
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-07 00:00:00,330.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-07 00:00:00,285.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-07-07 00:00:00,280.03646308113
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-07-07 00:00:00,289.999977213542
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-07 00:00:00,285.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-10 #2 SYP KD-HT,2x8,10,2,2025-07-07 00:00:00,280.024307665596
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-07-07 00:00:00,290.0
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X8-14 #2 SYP KD-HT,2x8,14,2,2025-07-07 00:00:00,290.0
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-14 #2 SYP,4x6,14,2,2025-07-07 00:00:00,410.000023538961
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-14 #1 SYP HT,4x6,14,1,2025-07-07 00:00:00,420.0
+Central,"Meadwestvaco Corporation (Cottonton, AL)",4X6-16 #2 SYP,4x6,16,2,2025-07-07 00:00:00,440.0
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-07-07 00:00:00,400.000025019623
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-07-07 00:00:00,400.000025019623
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-07-07 00:00:00,385.357142857143
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-07-07 00:00:00,426.857142857143
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-07 00:00:00,270.003803928223
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-07 00:00:00,270.003803928223
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-07 00:00:00,374.58753658847
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X10-8 #2 SYP KD-HT,2x10,8,2,2025-07-07 00:00:00,270.007670672462
+Central,"Interfor US, Inc (Belk, AL)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-07-08 00:00:00,447.760326936175
+Central,"Interfor US, Inc (Bay Springs, MS)",2X6-6 #2 SYP KD-HT,2x6,6,2,2025-07-08 00:00:00,291.744791666667
+West,"Eastex Forest Products (Houston, TX)",4X4-8 #2 SYP Treated,4x4,8,2,2025-07-09 00:00:00,820.585216450216
+West,"Eastex Forest Products (Houston, TX)",4X4-10 #2 SYP Treated,4x4,10,2,2025-07-09 00:00:00,749.993652625505
+West,"Binderholz Timber, LLC (Lake Charles, LA)",2X4-16 #2BTR SPF KD-HT,2x4,16,2,2025-07-09 00:00:00,633.787202380952
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-14 #2 Prime SYP KD-HT,2x8,14,2,2025-07-09 00:00:00,295.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-09 00:00:00,284.999982591712
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-07-10 00:00:00,458.777299733661
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X6-12 #1 SYP KD-HT,2x6,12,1,2025-07-10 00:00:00,340.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X6-16 #1 SYP KD-HT,2x6,16,1,2025-07-10 00:00:00,340.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X6-20 #1 SYP KD-HT,2x6,20,1,2025-07-10 00:00:00,350.0
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-18 #2 SYP,4x6,18,2,2025-07-10 00:00:00,425.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-07-10 00:00:00,480.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-07-10 00:00:00,480.0
+West,"Canfor Southern Pine (El Dorado, AR)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-10 00:00:00,330.014166130071
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-07-10 00:00:00,425.00594140545
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-07-10 00:00:00,275.007222863266
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-18 #2 SYP,4x6,18,2,2025-07-10 06:00:00,388.571440972222
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-07-11 00:00:00,430.000028682647
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-07-11 00:00:00,493.332665571537
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-07-11 00:00:00,503.608253205128
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-07-11 00:00:00,457.858719169191
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-07-11 00:00:00,314.913461538462
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,461.538461538462
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,461.538461538462
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,479.999974459135
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,479.999974459135
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,479.999974459135
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,479.999974459135
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,479.999974459135
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",6X6-16 #2 SYP KD-HT,6x6,16,2,2025-07-11 00:00:00,479.999974459135
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-07-11 00:00:00,275.007222863266
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-11 00:00:00,274.996497300861
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-07-12 00:00:00,280.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-07-14 00:00:00,473.94225761218
+West,"Eastex Forest Products (Houston, TX)",2X8-10 #2 SYP Treated,2x8,10,2,2025-07-15 00:00:00,620.242282141461
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-07-15 00:00:00,407.704407051282
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-07-15 00:00:00,422.704402043269
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-07-15 00:00:00,334.907937728938
+Central,"Southeastern Timber Products, LLC (Ackerman, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-07-15 00:00:00,435.0
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X10-16 #1 SYP KD-HT,2x10,16,1,2025-07-15 00:00:00,438.845563794426
+East,"Charles Ingram (Effingham, SC)",5/4X6-12 #2 NGM SYP KD-HT,4x6,12,2,2025-07-15 00:00:00,295.0
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-15 00:00:00,450.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-07-15 00:00:00,375.108322515506
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-07-15 00:00:00,375.000429258242
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-07-15 00:00:00,395.001229606732
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-15 00:00:00,297.51171921952
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-15 00:00:00,315.004242141433
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-15 00:00:00,315.004242141433
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-07-15 00:00:00,429.74109375
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-8 #2 SYP,4x4,8,2,2025-07-16 00:00:00,380.039151040593
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-16 00:00:00,380.029233017924
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-07-16 00:00:00,479.999974609375
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-16 #2 SYP,4x6,16,2,2025-07-16 00:00:00,370.833333333333
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-07-16 00:00:00,309.999985839844
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-16 00:00:00,265.00337971408
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-16 00:00:00,315.004242141433
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-20 #2 Prime SYP KD-HT,2x4,20,2,2025-07-16 00:00:00,297.51171921952
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-07-16 00:00:00,285.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-07-16 00:00:00,285.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-16 00:00:00,280.004242141433
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-8 #2 SYP,4x4,8,2,2025-07-17 00:00:00,390.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-07-17 00:00:00,350.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-16 #2 SYP KD-HT,4x4,16,2,2025-07-17 00:00:00,415.046322134167
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-20 #2 SYP,4x6,20,2,2025-07-17 00:00:00,520.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-20 #2 SYP,4x6,20,2,2025-07-17 00:00:00,520.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-07-17 00:00:00,280.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-17 00:00:00,280.0
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-17 00:00:00,280.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-17 00:00:00,285.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 Prime SYP KD-HT,2x4,10,2,2025-07-17 00:00:00,280.007829885436
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 Prime SYP KD-HT,2x4,12,2,2025-07-17 00:00:00,285.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-17 00:00:00,285.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-17 00:00:00,279.996291259735
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-17 00:00:00,280.004242141433
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-12 #2 SYP,4x4,12,2,2025-07-18 00:00:00,345.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-20 #2 SYP KD-HT,2x8,20,2,2025-07-18 00:00:00,353.046875
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-07-18 00:00:00,293.046875
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-12 #2 SYP,4x4,12,2,2025-07-21 00:00:00,345.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-21 00:00:00,368.571428571429
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-21 00:00:00,383.928571428571
+Central,"Littrell Lumber Mill, Inc (Decatur, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-21 00:00:00,460.0
+Central,"Littrell Lumber Mill, Inc (Decatur, AL)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-07-21 00:00:00,460.0
+Central,"Littrell Lumber Mill, Inc (Decatur, AL)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-07-21 00:00:00,460.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-07-21 00:00:00,284.999982591712
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-07-22 00:00:00,380.0
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-07-22 00:00:00,380.0
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-07-22 00:00:00,380.0
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-07-22 00:00:00,380.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-07-22 00:00:00,285.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-22 00:00:00,330.014166130071
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-22 00:00:00,330.014166130071
+West,"Martco Limited Partnership - Plywood Div (Chopin, LA)",6X6-8 #2 SYP KD-HT S4S,6x6,8,2,2025-07-23 00:00:00,380.000016818576
+West,"Martco Limited Partnership - Plywood Div (Chopin, LA)",6X6-8 #2 SYP KD-HT S4S,6x6,8,2,2025-07-23 00:00:00,380.000016818576
+West,"Martco Limited Partnership - Plywood Div (Chopin, LA)",6X6-8 #2 SYP KD-HT S4S,6x6,8,2,2025-07-23 00:00:00,380.000016818576
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-07-24 00:00:00,398.49763907967
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-24 00:00:00,385.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-24 00:00:00,385.017769777532
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-24 00:00:00,400.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-24 00:00:00,434.999950396825
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-24 00:00:00,391.499955357143
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-07-24 00:00:00,458.035667782738
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-07-24 00:00:00,431.785714285714
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-07-24 00:00:00,431.785714285714
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-24 00:00:00,440.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-07-24 00:00:00,443.571382068452
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-16 #2 SYP,4x6,16,2,2025-07-24 00:00:00,441.071428571429
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-07-24 00:00:00,315.000012586806
+Central,"Hood Industries, Inc. (Silver Creek, MS)",2X6-20 #1 SYP KD-HT,2x6,20,1,2025-07-25 00:00:00,347.0
+West,"West Fraser Mills Ltd. (Mansfield, AR)",4X6-14 #2 SYP,4x6,14,2,2025-07-25 00:00:00,445.0
+Central,"Rex Lumber Troy, LLC (Troy, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-25 00:00:00,395.164220437552
+Central,"Rex Lumber Troy, LLC (Troy, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-25 00:00:00,331.26548606719
+Central,"Rex Lumber Troy, LLC (Troy, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-25 00:00:00,395.170921678927
+Central,"Rex Lumber Troy, LLC (Troy, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-25 00:00:00,395.157901744109
+Central,"Rex Lumber Troy, LLC (Troy, AL)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-07-25 00:00:00,395.157901744109
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-07-25 00:00:00,314.63808046875
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-18 #2 SYP KD-HT,2x8,18,2,2025-07-25 00:00:00,349.638100043403
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-07-25 00:00:00,315.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-07-25 00:00:00,315.0
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-07-25 00:00:00,407.142857142857
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-07-25 00:00:00,428.571428571429
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-07-25 00:00:00,428.571428571429
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-07-25 00:00:00,428.571428571429
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-07-25 00:00:00,428.571428571429
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-28 00:00:00,433.846153846154
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-07-28 00:00:00,470.0
+West,"Interfor US, Inc (Dequincy, LA)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-07-28 00:00:00,532.392085098711
+West,"Interfor US, Inc (Dequincy, LA)",2X4-12 #1 SYP KD-HT,2x4,12,1,2025-07-28 00:00:00,412.424450549451
+West,"Canfor Southern Pine (Deridder, LA)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-07-28 00:00:00,458.442435897436
+West,"Canfor Southern Pine (Deridder, LA)",2X4-20 #1 SYP KD-HT,2x4,20,1,2025-07-28 00:00:00,458.475551709217
+West,"Canfor Southern Pine (Strong, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-07-29 00:00:00,407.446761016117
+West,"Doman Lumber (Gilmer, TX)",4X4-10 #2 SYP Treated,4x4,10,2,2025-07-29 00:00:00,645.121177149452
+West,"Potlatch Land & Lumber, LLC (Warren, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-07-29 00:00:00,314.236783338542
+West,"Potlatch Land & Lumber, LLC (Warren, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-07-29 00:00:00,405.62681369704
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-07-29 00:00:00,728.468102678571
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-07-29 00:00:00,803.468129340278
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-07-29 00:00:00,1068.46814583333
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-07-29 00:00:00,523.4681796875
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-07-29 00:00:00,523.468171875
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-07-29 00:00:00,523.46815078125
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-07-29 00:00:00,523.468203125
+East,"Pollard Lumber Co, Inc (Appling, GA)",5/4X6-10 #2 NGM SYP KD-HT,4x6,10,2,2025-07-29 00:00:00,290.277777777778
+Central,"Harrigan Lumber Company, Inc. (Monroeville, AL)",4X6-18 #2 SYP,4x6,18,2,2025-07-30 00:00:00,425.000013563368
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-12 #2 SYP KD-HT,4x6,12,2,2025-07-30 00:00:00,467.678571428571
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-20 #2 SYP,4x6,20,2,2025-07-30 00:00:00,525.0
+West,"Canfor Southern Pine (El Dorado, AR)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-07-31 00:00:00,295.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X4-14 #2 SYP KD-HT,2x4,14,2,2025-07-31 00:00:00,330.014166130071
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-08-01 00:00:00,442.626631181319
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-08-01 00:00:00,320.0
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-08-01 00:00:00,350.699652777778
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X6-10 #1 SYP KD-HT,2x6,10,1,2025-08-04 00:00:00,430.888157894737
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-08-04 00:00:00,350.0
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-08-04 00:00:00,458.035667782738
+West,"Canfor Southern Pine (El Dorado, AR)",2X6-10 #1 SYP KD-HT,2x6,10,1,2025-08-04 00:00:00,398.519736842105
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-08-04 06:00:00,315.714285714286
+East,"Georgia-Pacific Corp. (Rome, GA)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-08-05 00:00:00,320.117527173913
+Central,"KyKenKee, Inc (Vance, AL)",4X4-8 #2 SYP,4x4,8,2,2025-08-05 00:00:00,430.016271522582
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-05 00:00:00,409.090909090909
+Central,"Interfor US, Inc (Bay Springs, MS)",2X4-20 #2 SYP KD-HT,2x4,20,2,2025-08-05 00:00:00,413.975480032453
+East,"Langdale Forest Products Co (Barnesville, GA)",2X4-6 #2 SYP KD-HT,2x4,6,2,2025-08-06 00:00:00,344.347826086957
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-20 #2 SYP,4x6,20,2,2025-08-06 00:00:00,480.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-08-07 00:00:00,480.558082360172
+Central,"Weyerhaeuser NR Company (Bruce, MS)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-08-07 00:00:00,350.569444444444
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-07 00:00:00,409.090909090909
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-07 00:00:00,429.545454545455
+Central,"Lincoln Lumber Co, Inc (Brookhaven, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-07 00:00:00,351.87969924812
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-10 #1 SYP KD-HT,2x4,10,1,2025-08-07 00:00:00,360.091630254953
+West,"Eastex Forest Products (Houston, TX)",4X4-10 #2 SYP KD-HT,4x4,10,2,2025-08-08 00:00:00,555.213543670642
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-08-11 00:00:00,474.551956566277
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-08-11 00:00:00,277.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-8 #2 SYP KD-HT,2x6,8,2,2025-08-11 00:00:00,243.913054942255
+West,"Resolute FP US, Inc (Glenwood, AR)",2X10-14 #2 SYP KD-HT,2x10,14,2,2025-08-11 00:00:00,407.553908656636
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-08-12 00:00:00,481.619591346154
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-08-12 00:00:00,296.785714285714
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-08-12 00:00:00,382.424450549451
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-12 00:00:00,438.095238095238
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-08-13 00:00:00,390.0
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-08-13 00:00:00,438.018809684194
+West,"LaSalle Lumber Company, LLC (Olla, LA)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-08-13 00:00:00,355.500040064103
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X6-18 #1 SYP KD-HT,2x6,18,1,2025-08-15 00:00:00,362.532899305556
+West,"Weyerhaeuser NR Company (Dierks, AR)",2X6-20 #1 SYP KD-HT,2x6,20,1,2025-08-15 00:00:00,372.532890625
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-12 #2 SYP KD-HT,4x4,12,2,2025-08-15 00:00:00,350.0
+West,"West Fraser Mills Ltd. (Russellville, AR)",4X4-14 #2 SYP KD-HT,4x4,14,2,2025-08-15 00:00:00,312.666653486395
+Central,"Jack Batte and Sons, Inc. (Forest, MS)",4X6-20 #2 SYP,4x6,20,2,2025-08-15 00:00:00,525.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-18 00:00:00,470.0
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-14 #2 SYP Treated,6x6,14,2,2025-08-18 00:00:00,728.652976190476
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-16 #2 SYP Treated,6x6,16,2,2025-08-18 00:00:00,808.653072916667
+West,"Hatfield Lumber Co (Hatfield, AR)",6X6-20 #2 SYP Treated,6x6,20,2,2025-08-18 00:00:00,1078.653125
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP Treated,2x6,12,2,2025-08-18 00:00:00,553.652994791667
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-20 #2 SYP Treated,2x6,20,2,2025-08-18 00:00:00,503.6530703125
+West,"Hatfield Lumber Co (Hatfield, AR)",2X6-12 #2 SYP KD-HT,2x6,12,2,2025-08-18 00:00:00,453.652994791667
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-08-19 00:00:00,377.00625
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-18 #1 SYP KD-HT,2x4,18,1,2025-08-19 00:00:00,510.592948717949
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-08-19 00:00:00,391.308379120879
+Central,"Homan Forest Products Corporate, Inc (Fulton, MS)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-19 00:00:00,450.0
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-14 #1 SYP KD-HT,2x4,14,1,2025-08-19 00:00:00,380.004047391272
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-08-19 00:00:00,430.004089966646
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-08-20 00:00:00,343.745304987981
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-08-20 00:00:00,375.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-08-20 00:00:00,343.745304987981
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #1 SYP KD-HT,2x4,16,1,2025-08-20 00:00:00,375.00512190125
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-20 00:00:00,455.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-20 00:00:00,455.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-20 00:00:00,473.2
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-20 00:00:00,455.0
+Central,"Georgia-Pacific Corp. (Mexia, AL)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-20 00:00:00,436.8
+Central,"Mission Forest Products, LP (Corinth, MS)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-08-20 00:00:00,335.151734277742
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-08-21 00:00:00,390.0
+West,"Doman Lumber (Caddo Mills, TX)",2X12-10 #2 SYP Treated,2x12,10,2,2025-08-21 00:00:00,530.0
+West,"Doman Lumber (Caddo Mills, TX)",2X4-12 #2 SYP Treated,2x4,12,2,2025-08-21 00:00:00,500.0
+West,"Doman Lumber (Caddo Mills, TX)",2X8-12 #2 SYP Treated,2x8,12,2,2025-08-21 00:00:00,495.0
+West,"Doman Lumber (Caddo Mills, TX)",1X4-8 #2 SYP Treated,1x4,8,2,2025-08-21 00:00:00,915.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-08-21 00:00:00,254.999980044158
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #1 SYP KD-HT,2x8,8,1,2025-08-21 00:00:00,254.999980044158
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #1 SYP KD-HT,2x8,8,1,2025-08-21 00:00:00,254.999980044158
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #1 SYP KD-HT,2x8,8,1,2025-08-21 00:00:00,254.999980044158
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #2 SYP KD-HT,2x8,8,2,2025-08-21 00:00:00,254.999980044158
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-8 #1 SYP KD-HT,2x8,8,1,2025-08-21 00:00:00,255.000014648438
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-10 #2 SYP KD-HT,2x4,10,2,2025-08-22 00:00:00,342.112259615385
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-12 #2 SYP KD-HT,2x4,12,2,2025-08-22 00:00:00,347.863461538461
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-08-22 00:00:00,348.283879206731
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-08-22 00:00:00,380.865601311207
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-08-22 00:00:00,336.699851062162
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-8 #2 SYP KD-HT,2x4,8,2,2025-08-22 00:00:00,336.699851062162
+East,"Langdale Forest Products Co (Barnesville, GA)",4X6-10 #2 SYP HT,4x6,10,2,2025-08-22 00:00:00,643.229166666667
+West,"Cal-Tex Lumber Co. (Pollok, TX)",4X4-8 #2 SYP,4x4,8,2,2025-08-25 00:00:00,390.0
+West,"Georgia-Pacific Corp. (Gurdon, AR)",4X4-8 #2 SYP,4x4,8,2,2025-08-25 00:00:00,380.017127918507
+West,"Georgia-Pacific Corp. (Diboll, TX)",2X6-16 #2 SYP KD-HT,2x6,16,2,2025-08-25 00:00:00,283.958333333333
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-16 #2 SYP,4x6,16,2,2025-08-25 00:00:00,444.583333333333
+West,"Snider Industries, LLP (Marshall, TX)",1X4-14 #2 SYP KD-HT S4S,1x4,14,2,2025-08-25 00:00:00,616.071428571429
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X4-16 #2 SYP KD-HT,2x4,16,2,2025-08-27 00:00:00,345.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-08-27 00:00:00,240.000012586806
+West,"Georgia-Pacific Corp. (Gurdon, AR)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-08-28 00:00:00,361.956153104708
+West,"Georgia-Pacific Corp. (Pineland, TX)",2X6-14 #2 SYP KD-HT,2x6,14,2,2025-08-28 00:00:00,320.0
+Central,"Georgia-Pacfic Corp (Talladega, AL)",2X6-20 #2 SYP KD-HT,2x6,20,2,2025-08-28 00:00:00,280.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-16 #1 SYP KD-HT,2x8,16,1,2025-08-28 00:00:00,270.011985617259
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-16 #1 SYP KD-HT,2x8,16,1,2025-08-28 00:00:00,270.010986775178
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #1 SYP KD-HT,2x8,12,1,2025-08-28 00:00:00,260.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #2 SYP KD-HT,2x8,12,2,2025-08-28 00:00:00,250.0
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-28 00:00:00,416.190476190476
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-28 00:00:00,438.095238095238
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-08-28 00:00:00,438.095238095238
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-12 #1 SYP KD-HT,2x8,12,1,2025-08-29 00:00:00,260.0
+West,"Hood Industries, Inc. (Bogalusa, LA)",2X8-16 #2 SYP KD-HT,2x8,16,2,2025-09-01 00:00:00,235.010431926133
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-8 #2 SYP KD-HT,4x6,8,2,2025-09-02 00:00:00,470.0
+West,"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",4X6-10 #2 SYP HT,4x6,10,2,2025-09-02 00:00:00,470.0
+West,"West Fraser Mills Ltd (New Boston, TX)",2X10-18 #1 SYP KD-HT,2x10,18,1,2025-09-02 00:00:00,300.0
+West,"Bienville Lumber Company, LLC (Taylor, LA)",2X8-16 #1 SYP KD-HT,2x8,16,1,2025-09-03 00:00:00,270.011985617259
+East,"RB Lumber Co, LLC dba DS Smith Riceboro Lumber (Riceboro, GA)",4X6-16 #2 SYP,4x6,16,2,2025-09-03 00:00:00,438.095238095238
