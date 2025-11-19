@@ -316,6 +316,21 @@ def drop_all_null_columns(df):
         return df
     return df.loc[:, df.notna().any(axis=0)]
 
+def ensure_dataframe(obj):
+    """Convert narwhals/Streamlit dataframe wrappers back to pandas for Altair."""
+    if obj is None or isinstance(obj, pd.DataFrame):
+        return obj
+    for attr in ("to_pandas", "to_native"):
+        method = getattr(obj, attr, None)
+        if callable(method):
+            try:
+                converted = method()
+            except Exception:
+                continue
+            if isinstance(converted, pd.DataFrame):
+                return converted
+    return obj
+
 # -----------------------
 # Sidebar Inputs
 # -----------------------
@@ -551,6 +566,10 @@ with tab_lane:
     else:
         mill_agg = pd.DataFrame(columns=["Mill", "avg_days", "avg_expense_per_mile", "load_count"])
     
+    lane_with_dat = ensure_dataframe(lane_with_dat)
+    lane_agg = ensure_dataframe(lane_agg)
+    mill_agg = ensure_dataframe(mill_agg)
+    
     # -----------------------
     # Visualization plots
     # -----------------------
@@ -777,17 +796,18 @@ with tab_mill:
             dest_types=dest_sel or None,
             date_range=date_range,
         )
+        filtered_fact = ensure_dataframe(filtered_fact)
 
         if filtered_fact is None or filtered_fact.empty:
             st.warning("No rows match the selected filters.")
         else:
             summary_metrics = compute_overall_metrics(filtered_fact)
-            comparison_by_mill = aggregate_kpis(filtered_fact, ["mill"])
-            comparison_by_vendor = aggregate_kpis(filtered_fact, ["vendor_cid"])
-            comparison_by_region = aggregate_kpis(filtered_fact, ["mill_region"])
-            comparison_by_product = aggregate_kpis(filtered_fact, ["product_key"])
-            comparison_by_mill_dest = aggregate_kpis(filtered_fact, ["mill", "dest_location_type"])
-            trend_df = compute_trend_series(filtered_fact, freq="W")
+            comparison_by_mill = ensure_dataframe(aggregate_kpis(filtered_fact, ["mill"]))
+            comparison_by_vendor = ensure_dataframe(aggregate_kpis(filtered_fact, ["vendor_cid"]))
+            comparison_by_region = ensure_dataframe(aggregate_kpis(filtered_fact, ["mill_region"]))
+            comparison_by_product = ensure_dataframe(aggregate_kpis(filtered_fact, ["product_key"]))
+            comparison_by_mill_dest = ensure_dataframe(aggregate_kpis(filtered_fact, ["mill", "dest_location_type"]))
+            trend_df = ensure_dataframe(compute_trend_series(filtered_fact, freq="W"))
 
             card_cols = st.columns(3)
             card_cols[0].metric("Total Volume (BF)", format_number(summary_metrics.get("total_volume_bf"), 0))
@@ -803,6 +823,7 @@ with tab_mill:
                 st.info("Not enough ship dates to plot a trend.")
             else:
                 plot_df = trend_df.melt("period", ["avg_delivered", "avg_rl"], var_name="Series", value_name="Value").dropna(subset=["Value"])
+                plot_df = ensure_dataframe(plot_df)
                 trend_chart = (
                     alt.Chart(plot_df)
                     .mark_line(point=True)
@@ -822,7 +843,9 @@ with tab_mill:
                 st.info("Vendor information unavailable.")
             else:
                 st.dataframe(vendor_table)
-                vendor_chart_df = comparison_by_vendor.dropna(subset=["delivered_cost_per_mbf_avg"]).head(25)
+                vendor_chart_df = ensure_dataframe(
+                    comparison_by_vendor.dropna(subset=["delivered_cost_per_mbf_avg"]).head(25)
+                )
                 vendor_chart = (
                     alt.Chart(vendor_chart_df)
                     .mark_bar()
@@ -847,7 +870,9 @@ with tab_mill:
                 st.info("Mill information unavailable.")
             else:
                 st.dataframe(mill_table)
-                mill_chart_df = comparison_by_mill.dropna(subset=["delivered_cost_per_mbf_avg"]).copy()
+                mill_chart_df = ensure_dataframe(
+                    comparison_by_mill.dropna(subset=["delivered_cost_per_mbf_avg"]).copy()
+                )
                 color_channel = alt.value("#4c78a8")
                 if "mill_region" in mill_chart_df.columns:
                     mill_chart_df["mill_region_plot"] = (
@@ -878,7 +903,7 @@ with tab_mill:
                 )
                 st.altair_chart(mill_scatter, use_container_width=True)
 
-            region_table = drop_all_null_columns(comparison_by_region).round(2)
+            region_table = ensure_dataframe(drop_all_null_columns(comparison_by_region).round(2))
             st.markdown("### Performance by Region")
             if region_table.empty:
                 st.info("Region column missing.")
@@ -932,7 +957,9 @@ with tab_mill:
             pcols[1].metric("Plant Delivered $/MBF", format_number(plant_metrics.get("avg_delivered_cost_per_mbf"), 2))
             pcols[2].metric("Plant Index Margin $/MBF", format_number(plant_metrics.get("index_relative_margin_per_mbf_avg"), 2))
 
-            plant_by_dest = drop_all_null_columns(aggregate_kpis(plant_df, ["dest_location_type", "mill"])).round(2)
+            plant_by_dest = ensure_dataframe(
+                drop_all_null_columns(aggregate_kpis(plant_df, ["dest_location_type", "mill"])).round(2)
+            )
             if not plant_by_dest.empty:
                 st.markdown("#### Plant PO by Location (BLR/TLR)")
                 st.dataframe(plant_by_dest)
@@ -964,13 +991,14 @@ with tab_mill:
             comp_df = comparison_by_mill_dest.copy()
             if dest_choice != "All":
                 comp_df = comp_df[comp_df["dest_location_type"] == dest_choice]
-            comp_df = drop_all_null_columns(comp_df).sort_values("delivered_cost_per_mbf_avg")
+            comp_df = ensure_dataframe(drop_all_null_columns(comp_df).sort_values("delivered_cost_per_mbf_avg"))
             if comp_df.empty:
                 st.info("No rows for the selected destination class.")
             else:
                 st.dataframe(comp_df.round(2))
+                comp_chart_df = ensure_dataframe(comp_df.head(30))
                 route_chart = (
-                    alt.Chart(comp_df.head(30))
+                    alt.Chart(comp_chart_df)
                     .mark_bar()
                     .encode(
                         x=alt.X("delivered_cost_per_mbf_avg:Q", title="Avg Delivered $/MBF"),
@@ -985,8 +1013,10 @@ with tab_mill:
             product_comp = aggregate_kpis(filtered_fact, ["mill", "product_key", "dest_location_type"])
             if dest_choice != "All":
                 product_comp = product_comp[product_comp["dest_location_type"] == dest_choice]
-            product_comp = drop_all_null_columns(product_comp).sort_values(
-                ["dest_location_type", "delivered_cost_per_mbf_avg"]
+            product_comp = ensure_dataframe(
+                drop_all_null_columns(product_comp).sort_values(
+                    ["dest_location_type", "delivered_cost_per_mbf_avg"]
+                )
             )
             if product_comp.empty:
                 st.info("No product-level rows for the selection.")
@@ -1004,7 +1034,7 @@ with tab_mill:
             if rec_table.empty:
                 st.info("No recommendations found for the selected constraints.")
             else:
-                rec_table = rec_table.round(2)
+                rec_table = ensure_dataframe(rec_table.round(2))
                 st.dataframe(rec_table)
                 rec_chart = (
                     alt.Chart(rec_table)
@@ -1039,6 +1069,7 @@ with tab_rl:
                 & (rl_df["grade"] == grade)
                 & (rl_df["dimension"] == dimension)
             ].dropna(subset=["rl_date", "rl_price_per_mbf"])
+            subset = ensure_dataframe(subset)
             if subset.empty:
                 st.info("No Random Lengths rows for that selection.")
             else:
@@ -1082,6 +1113,7 @@ with tab_rl:
                 & (trend_df_full["grade"] == trend_grade)
                 & (trend_df_full["dimension"] == trend_dimension)
             ].dropna(subset=["transaction_date","rolling_avg"])
+            subset_trend = ensure_dataframe(subset_trend)
             if subset_trend.empty:
                 st.info("No rows in trend_dataset for that selection.")
             else:
