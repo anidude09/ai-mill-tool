@@ -567,7 +567,7 @@ with tab_lane:
             x=alt.X("DaysCreatedToShip:Q", bin=True, title="Days Created → Ship"),
             y="count()"
         )
-        st.altair_chart(hist_days, width='stretch')
+        st.altair_chart(hist_days, use_container_width=True)
     
         st.subheader("Average Days from Load Creation to Shipment by Lane")
         chart_days = alt.Chart(lane_agg).mark_bar().encode(
@@ -576,7 +576,7 @@ with tab_lane:
             tooltip=["LaneKey", "avg_days", "load_count"]
         ).properties(height=400)
     
-        st.altair_chart(chart_days, width='stretch')
+        st.altair_chart(chart_days, use_container_width=True)
     
         # Show top/bottom by avg days
         st.markdown("---")
@@ -639,7 +639,7 @@ with tab2:
         height=400,
         title="Average Carrier Expense per Mile by Lane"
     )
-    st.altair_chart(chart_expense, width='stretch')
+    st.altair_chart(chart_expense, use_container_width=True)
 
     # Boxplot (variation)
     box = alt.Chart(lane_with_dat).mark_boxplot().encode(
@@ -650,7 +650,7 @@ with tab2:
         height=450,
         title="Cost per Mile Variability by Lane"
     )
-    st.altair_chart(box, width='stretch')
+    st.altair_chart(box, use_container_width=True)
     # Show top/bottom by expense per mile
     st.markdown("---")
     st.subheader("Top lanes by Average Carrier Expense per Mile (highest)")
@@ -677,7 +677,7 @@ with tab3:
         title="Carrier Cost vs DAT Index — Lane Efficiency Map"
     )
 
-    st.altair_chart(scatter, width='stretch')
+    st.altair_chart(scatter, use_container_width=True)
 
     # Bar: Expense - DAT difference
     diff_bar = alt.Chart(lane_agg).mark_bar().encode(
@@ -687,7 +687,7 @@ with tab3:
     ).properties(
         title="Difference Between Actual Carrier Cost and DAT Index"
     )
-    st.altair_chart(diff_bar, width='stretch')
+    st.altair_chart(diff_bar, use_container_width=True)
 
     # Quick table of lanes with highest expense - DAT gaps
     st.markdown("---")
@@ -709,7 +709,7 @@ with tab3:
                             scale=alt.Scale(scheme="redblue")),
             tooltip=["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "avg_days", "load_count"]
         ).interactive()
-        st.altair_chart(scatter, width='stretch')
+        st.altair_chart(scatter, use_container_width=True)
 
 with tab4:
     st.header("🏭 Mill Performance Comparison")
@@ -729,7 +729,7 @@ with tab4:
         height=500,
         title="Average Carrier Expense per Mile by Mill"
     )
-    st.altair_chart(cost_chart, width='stretch')
+    st.altair_chart(cost_chart, use_container_width=True)
 
     days_chart = alt.Chart(mill_agg).mark_bar().encode(
         x=alt.X("avg_days:Q", title="Avg Days Created → Ship"),
@@ -739,7 +739,7 @@ with tab4:
         height=500,
         title="Average Days Created → Ship by Mill"
     )
-    st.altair_chart(days_chart, width='stretch')
+    st.altair_chart(days_chart, use_container_width=True)
     # Mill-level aggregation & top mills
     if "Mill" in lane_with_dat.columns and lane_with_dat["Mill"].notna().any():
         mill_agg = lane_with_dat.groupby("Mill").agg(
