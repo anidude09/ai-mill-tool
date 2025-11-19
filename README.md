@@ -35,8 +35,9 @@ The sidebar uploaders are still available if you want to override the bundled da
 ## Deploy to Streamlit Cloud
 1. Push this branch to GitHub (e.g., `dashboard_updates` → `main`).
 2. Go to [share.streamlit.io](https://share.streamlit.io) and create a new app pointing to the repo, branch, and `Dashboard/Freight_analysis.py`.
-3. Streamlit Cloud installs `requirements.txt` automatically and caches the bundled CSVs.
-4. After deploy, exercise each tab (with and without uploads) to confirm the fallback CSVs load correctly.
+3. Streamlit Cloud reads `runtime.txt` and builds the app with Python 3.10 so the prebuilt `pyarrow` wheel installs cleanly.
+4. Streamlit Cloud installs `requirements.txt` automatically and caches the bundled CSVs.
+5. After deploy, exercise each tab (with and without uploads) to confirm the fallback CSVs load correctly.
 
 ## Refreshing Data
 When new KPI or RL datasets are produced:
