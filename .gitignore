@@ -1,13 +1,46 @@
-.venv
+__pycache__/
+**/__pycache__/
+.venv/
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS artifacts
 .DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Large files / formats to keep local
+*.docx
+*.xlsx
+*.xls
+*.pptx
+*.ipynb
+*.html
 *.png
-*.txt
 *.log
+
+# Generated Python files
 *.pyc
 *.pyo
 *.pyd
 *.pyw
 *.pyz
-*.docx
 
+# Directories not needed for Streamlit deploy
+Anirudh_Dashboard copy/
+Data_Split/
+EDA/
+Merged_Data/
+models/
+WEEK4/
+KP1/Grade_3_4/
+KP1/mill_eda_outputs/
+KP1/output_sheets/
+Dashboard/*.xlsx
 
+# Large analysis outputs (keep CSV explicitly)
+KP1/analysis_outputs/**
+!KP1/analysis_outputs/
+!KP1/analysis_outputs/trend_dataset.csv
