@@ -580,21 +580,21 @@ with tab_lane:
     
         # Show top/bottom by avg days
         st.markdown("---")
-    st.subheader("Top lanes by Average Days Created → Ship (longest)")
-    st.dataframe(lane_agg.sort_values("avg_days", ascending=False)[
+        st.subheader("Top lanes by Average Days Created → Ship (longest)")
+        st.dataframe(lane_agg.sort_values("avg_days", ascending=False)[
                      ["LaneKey", "avg_days", "avg_expense_per_mile", "avg_DATRate_per_mile", "load_count"]].round(
         2).head(10))
 
-    st.subheader("Bottom lanes by Average Days Created → Ship (shortest)")
-    st.dataframe(lane_agg.sort_values("avg_days", ascending=True)[
+        st.subheader("Bottom lanes by Average Days Created → Ship (shortest)")
+        st.dataframe(lane_agg.sort_values("avg_days", ascending=True)[
                      ["LaneKey", "avg_days", "avg_expense_per_mile", "avg_DATRate_per_mile", "load_count"]].round(
         2).head(10))
 
-    st.subheader("🚨 Negative Days Diagnostics")
-    negatives = lane_df[lane_df["DaysCreatedToShip"] < 0]
-    st.write(f"Negative records found: {len(negatives)}")
+        st.subheader("🚨 Negative Days Diagnostics")
+        negatives = lane_df[lane_df["DaysCreatedToShip"] < 0]
+        st.write(f"Negative records found: {len(negatives)}")
 
-    if len(negatives) > 0:
+        if len(negatives) > 0:
         st.write(negatives[[
             lane_pro_col,
             "Ship Date",
@@ -602,34 +602,27 @@ with tab_lane:
             "DaysCreatedToShip"
         ]].head(50))
 
-    st.subheader("🚨 NaN Days Diagnostics")
+        st.subheader("🚨 NaN Days Diagnostics")
 
-    nan_days = lane_df[lane_df["DaysCreatedToShip"].isna()]
-    st.write(f"NaN records found: {len(nan_days)}")
+        nan_days = lane_df[lane_df["DaysCreatedToShip"].isna()]
+        st.write(f"NaN records found: {len(nan_days)}")
 
-    if len(nan_days) > 0:
-        # Only show columns that actually exist
-        cols_to_show = [lane_pro_col]
+        if len(nan_days) > 0:
+            # Only show columns that actually exist
+            cols_to_show = [lane_pro_col]
 
-        if "Ship Date" in lane_df.columns:
-            cols_to_show.append("Ship Date")
-        if "Created Date" in lane_df.columns:
-            cols_to_show.append("Created Date")
-        if "DaysCreatedToShip" in lane_df.columns:
-            cols_to_show.append("DaysCreatedToShip")
-
-        st.write(nan_days[cols_to_show].head(50))
+            if "Ship Date" in lane_df.columns:
+                cols_to_show.append("Ship Date")
+            if "Created Date" in lane_df.columns:
+                cols_to_show.append("Created Date")
+            if "DaysCreatedToShip" in lane_df.columns:
+                cols_to_show.append("DaysCreatedToShip")
+    
+            st.write(nan_days[cols_to_show].head(50))
 
 
 with tab2:
     st.header("💰 Carrier Expense per Mile")
-    st.subheader("Top Lanes by Cost per Mile")
-    st.dataframe(
-        lane_agg.sort_values("avg_expense_per_mile", ascending=False)
-        [["LaneKey", "avg_expense_per_mile", "avg_days", "load_count"]]
-        .head(15).round(3)
-    )
-
     # Visualization
     chart_expense = alt.Chart(lane_agg).mark_bar().encode(
         x=alt.X("LaneKey:N", sort="-y", title="Lane"),
@@ -664,21 +657,6 @@ with tab2:
         3).head(10))
 
 with tab3:
-    st.header("📊 Carrier Cost per Mile vs DAT Rate per Mile")
-
-    scatter = alt.Chart(lane_agg).mark_circle(size=80).encode(
-        x=alt.X("avg_expense_per_mile:Q", title="Carrier Cost per Mile"),
-        y=alt.Y("avg_DATRate_per_mile:Q", title="DAT Rate per Mile"),
-        color=alt.Color("expense_minus_DAT_per_mile:Q", title="Expense − DAT ($/mile)",
-                        scale=alt.Scale(scheme="redblue")),
-        size="load_count",
-        tooltip=["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "expense_minus_DAT_per_mile"]
-    ).properties(
-        title="Carrier Cost vs DAT Index — Lane Efficiency Map"
-    )
-
-    st.altair_chart(scatter, use_container_width=True)
-
     # Bar: Expense - DAT difference
     diff_bar = alt.Chart(lane_agg).mark_bar().encode(
         x=alt.X("LaneKey:N", sort="-y", title="Lane"),
@@ -713,14 +691,6 @@ with tab3:
 
 with tab4:
     st.header("🏭 Mill Performance Comparison")
-
-    st.subheader("Mills with Highest Cost per Mile")
-    st.dataframe(
-        mill_agg.sort_values("avg_expense_per_mile", ascending=False)
-        [["Mill", "avg_expense_per_mile", "avg_days", "load_count"]]
-        .head(10).round(3)
-    )
-
     cost_chart = alt.Chart(mill_agg).mark_bar().encode(
         x=alt.X("avg_expense_per_mile:Q", title="Avg Cost per Mile"),
         y=alt.Y("Mill:N", sort='-x', title="Mill"),
