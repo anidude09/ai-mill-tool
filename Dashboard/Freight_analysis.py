@@ -595,12 +595,12 @@ with tab_lane:
         st.write(f"Negative records found: {len(negatives)}")
 
         if len(negatives) > 0:
-        st.write(negatives[[
-            lane_pro_col,
-            "Ship Date",
-            "Created Date",
-            "DaysCreatedToShip"
-        ]].head(50))
+            st.write(negatives[[
+                lane_pro_col,
+                "Ship Date",
+                "Created Date",
+                "DaysCreatedToShip"
+            ]].head(50))
 
         st.subheader("🚨 NaN Days Diagnostics")
 
