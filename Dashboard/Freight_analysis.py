@@ -317,7 +317,7 @@ def drop_all_null_columns(df):
     return df.loc[:, df.notna().any(axis=0)]
 
 def ensure_dataframe(obj):
-    """Convert narwhals/Streamlit dataframe wrappers back to pandas for Altair."""
+    """Convert Streamlit/narwhals dataframe wrappers to pandas for downstream libraries."""
     if obj is None or isinstance(obj, pd.DataFrame):
         return obj
     for attr in ("to_pandas", "to_native"):
@@ -330,6 +330,46 @@ def ensure_dataframe(obj):
             if isinstance(converted, pd.DataFrame):
                 return converted
     return obj
+
+TABLE_LABELS = {
+    "LaneKey": "Lane",
+    "avg_days": "Avg Days Created → Ship",
+    "avg_expense_per_mile": "Avg Carrier Cost per Mile ($)",
+    "avg_DATRate_per_mile": "Avg DAT Rate per Mile ($)",
+    "load_count": "Loads",
+    "volume_bf": "Volume (BF)",
+    "delivered_cost_per_mbf_avg": "Avg Delivered $/MBF",
+    "delivered_cost_per_mbf": "Delivered $/MBF",
+    "rl_price_per_mbf_avg": "Avg RL $/MBF",
+    "rl_price_per_mbf": "RL $/MBF",
+    "index_relative_margin_per_mbf_avg": "Index Margin $/MBF",
+    "index_relative_margin_per_mbf": "Index Margin $/MBF",
+    "avg_days_ready_to_ship": "Avg Days Ready → Ship",
+    "DaysCreatedToShip": "Days Created → Ship",
+    "mill": "Mill",
+    "mill_region": "Mill Region",
+    "mill_region_plot": "Mill Region",
+    "vendor_cid": "Vendor CID",
+    "dest_location_type": "Destination Type",
+    "dest_city": "Destination City",
+    "dest_st": "Destination State",
+    "product_key": "Product",
+    "dimension": "Dimension",
+    "grade": "Grade",
+    "length_ft": "Length (ft)",
+    "convbf": "Volume (BF)",
+    "expense_minus_DAT_per_mile": "Expense − DAT ($/mile)",
+    "avg_days_ready_to_ship_avg": "Avg Days Ready → Ship",
+}
+
+def format_table(df, extra_labels=None):
+    if df is None or df.empty:
+        return df
+    labels = dict(TABLE_LABELS)
+    if extra_labels:
+        labels.update(extra_labels)
+    renamed = df.rename(columns={col: labels.get(col, col.replace("_", " ").title()) for col in df.columns})
+    return renamed
 
 # -----------------------
 # Sidebar Inputs
@@ -600,26 +640,34 @@ with tab_lane:
         # Show top/bottom by avg days
         st.markdown("---")
         st.subheader("Top lanes by Average Days Created → Ship (longest)")
-        st.dataframe(lane_agg.sort_values("avg_days", ascending=False)[
-                     ["LaneKey", "avg_days", "avg_expense_per_mile", "avg_DATRate_per_mile", "load_count"]].round(
-        2).head(10))
+        top_lanes = (
+            lane_agg.sort_values("avg_days", ascending=False)[
+                ["LaneKey", "avg_days", "avg_expense_per_mile", "avg_DATRate_per_mile", "load_count"]
+            ]
+            .round(2)
+            .head(10)
+        )
+        st.dataframe(format_table(top_lanes))
 
         st.subheader("Bottom lanes by Average Days Created → Ship (shortest)")
-        st.dataframe(lane_agg.sort_values("avg_days", ascending=True)[
-                     ["LaneKey", "avg_days", "avg_expense_per_mile", "avg_DATRate_per_mile", "load_count"]].round(
-        2).head(10))
+        bottom_lanes = (
+            lane_agg.sort_values("avg_days", ascending=True)[
+                ["LaneKey", "avg_days", "avg_expense_per_mile", "avg_DATRate_per_mile", "load_count"]
+            ]
+            .round(2)
+            .head(10)
+        )
+        st.dataframe(format_table(bottom_lanes))
 
         st.subheader("🚨 Negative Days Diagnostics")
         negatives = lane_df[lane_df["DaysCreatedToShip"] < 0]
         st.write(f"Negative records found: {len(negatives)}")
 
         if len(negatives) > 0:
-            st.write(negatives[[
-                lane_pro_col,
-                "Ship Date",
-                "Created Date",
-                "DaysCreatedToShip"
-            ]].head(50))
+            negative_display = negatives[
+                [lane_pro_col, "Ship Date", "Created Date", "DaysCreatedToShip"]
+            ].head(50)
+            st.dataframe(format_table(negative_display))
 
         st.subheader("🚨 NaN Days Diagnostics")
 
@@ -636,8 +684,8 @@ with tab_lane:
                 cols_to_show.append("Created Date")
             if "DaysCreatedToShip" in lane_df.columns:
                 cols_to_show.append("DaysCreatedToShip")
-    
-            st.write(nan_days[cols_to_show].head(50))
+
+            st.dataframe(format_table(nan_days[cols_to_show].head(50)))
 
 
 with tab2:
@@ -666,14 +714,24 @@ with tab2:
     # Show top/bottom by expense per mile
     st.markdown("---")
     st.subheader("Top lanes by Average Carrier Expense per Mile (highest)")
-    st.dataframe(lane_agg.sort_values("avg_expense_per_mile", ascending=False)[
-                     ["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "avg_days", "load_count"]].round(
-        3).head(10))
+    top_cost = (
+        lane_agg.sort_values("avg_expense_per_mile", ascending=False)[
+            ["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "avg_days", "load_count"]
+        ]
+        .round(3)
+        .head(10)
+    )
+    st.dataframe(format_table(top_cost))
 
     st.subheader("Bottom lanes by Average Carrier Expense per Mile (lowest)")
-    st.dataframe(lane_agg.sort_values("avg_expense_per_mile", ascending=True)[
-                     ["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "avg_days", "load_count"]].round(
-        3).head(10))
+    bottom_cost = (
+        lane_agg.sort_values("avg_expense_per_mile", ascending=True)[
+            ["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "avg_days", "load_count"]
+        ]
+        .round(3)
+        .head(10)
+    )
+    st.dataframe(format_table(bottom_cost))
 
 with tab3:
     # Bar: Expense - DAT difference
@@ -689,9 +747,14 @@ with tab3:
     # Quick table of lanes with highest expense - DAT gaps
     st.markdown("---")
     st.subheader("Lanes with largest Expense − DAT per mile (top 10)")
-    st.dataframe(lane_agg.sort_values("expense_minus_DAT_per_mile", ascending=False)[
-                     ["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "expense_minus_DAT_per_mile",
-                      "load_count"]].head(10).round(3))
+    gap_lanes = (
+        lane_agg.sort_values("expense_minus_DAT_per_mile", ascending=False)[
+            ["LaneKey", "avg_expense_per_mile", "avg_DATRate_per_mile", "expense_minus_DAT_per_mile", "load_count"]
+        ]
+        .head(10)
+        .round(3)
+    )
+    st.dataframe(format_table(gap_lanes))
 
 
     # Compare expense vs DATRate per mile in a scatter
@@ -738,9 +801,9 @@ with tab4:
         ).reset_index()
         st.markdown("---")
         st.subheader("Top Mills by Average Carrier Expense per Mile")
-        st.dataframe(mill_agg.sort_values("avg_expense_per_mile", ascending=False).head(10).round(3))
+        st.dataframe(format_table(mill_agg.sort_values("avg_expense_per_mile", ascending=False).head(10).round(3)))
         st.subheader("Top Mills by Average Days Created → Ship")
-        st.dataframe(mill_agg.sort_values("avg_days", ascending=False).head(10).round(2))
+        st.dataframe(format_table(mill_agg.sort_values("avg_days", ascending=False).head(10).round(2)))
     else:
         st.info("No Mill information available to aggregate.")
 
@@ -842,66 +905,14 @@ with tab_mill:
             if vendor_table.empty:
                 st.info("Vendor information unavailable.")
             else:
-                st.dataframe(vendor_table)
-                vendor_chart_df = ensure_dataframe(
-                    comparison_by_vendor.dropna(subset=["delivered_cost_per_mbf_avg"]).head(25)
-                )
-                vendor_chart = (
-                    alt.Chart(vendor_chart_df)
-                    .mark_bar()
-                    .encode(
-                        x=alt.X("vendor_cid:N", sort="-y", title="Vendor CID"),
-                        y=alt.Y("delivered_cost_per_mbf_avg:Q", title="Avg Delivered $/MBF"),
-                        color=alt.Color("index_relative_margin_per_mbf_avg:Q", title="Index Margin", scale=alt.Scale(scheme="redblue")),
-                        tooltip=[
-                            alt.Tooltip("vendor_cid:N", title="Vendor"),
-                            alt.Tooltip("volume_bf:Q", title="Volume", format=","),
-                            alt.Tooltip("delivered_cost_per_mbf_avg:Q", title="Delivered $/MBF", format=".1f"),
-                            alt.Tooltip("rl_price_per_mbf_avg:Q", title="RL $/MBF", format=".1f"),
-                            alt.Tooltip("index_relative_margin_per_mbf_avg:Q", title="Index Margin", format=".1f"),
-                        ],
-                    )
-                )
-                st.altair_chart(vendor_chart, use_container_width=True)
+                st.dataframe(format_table(vendor_table))
 
             mill_table = drop_all_null_columns(comparison_by_mill).round(2)
             st.markdown("### Performance by Mill")
             if mill_table.empty:
                 st.info("Mill information unavailable.")
             else:
-                st.dataframe(mill_table)
-                mill_chart_df = ensure_dataframe(
-                    comparison_by_mill.dropna(subset=["delivered_cost_per_mbf_avg"]).copy()
-                )
-                color_channel = alt.value("#4c78a8")
-                if "mill_region" in mill_chart_df.columns:
-                    mill_chart_df["mill_region_plot"] = (
-                        mill_chart_df["mill_region"]
-                        .fillna("Unknown")
-                        .astype(str)
-                    )
-                    color_channel = alt.Color("mill_region_plot:N", title="Region")
-                else:
-                    mill_chart_df["mill_region_plot"] = "Unknown"
-                mill_scatter = (
-                    alt.Chart(mill_chart_df)
-                    .mark_circle(size=120, opacity=0.75)
-                    .encode(
-                        x=alt.X("delivered_cost_per_mbf_avg:Q", title="Delivered $/MBF"),
-                        y=alt.Y("index_relative_margin_per_mbf_avg:Q", title="Index Margin $/MBF"),
-                        size=alt.Size("volume_bf:Q", title="Volume (BF)"),
-                        color=color_channel,
-                        tooltip=[
-                            "mill",
-                            "mill_region_plot",
-                            "volume_bf",
-                            "delivered_cost_per_mbf_avg",
-                            "rl_price_per_mbf_avg",
-                            "index_relative_margin_per_mbf_avg",
-                        ],
-                    )
-                )
-                st.altair_chart(mill_scatter, use_container_width=True)
+                st.dataframe(format_table(mill_table))
 
             region_table = ensure_dataframe(drop_all_null_columns(comparison_by_region).round(2))
             st.markdown("### Performance by Region")
@@ -924,11 +935,11 @@ with tab_mill:
                             tooltip=tooltips,
                         )
                     )
-                    st.altair_chart(region_chart, use_container_width=True)
-                    st.dataframe(region_table)
+                st.altair_chart(region_chart, use_container_width=True)
+                st.dataframe(format_table(region_table))
                 if not nan_region.empty:
                     st.markdown("#### Shipments With Missing Region")
-                    st.dataframe(nan_region)
+                    st.dataframe(format_table(nan_region))
 
             st.markdown("### Top Products")
             product_table = drop_all_null_columns(
@@ -937,7 +948,7 @@ with tab_mill:
             if product_table.empty:
                 st.info("Product information unavailable.")
             else:
-                st.dataframe(product_table)
+                st.dataframe(format_table(product_table))
 
             st.markdown("### Direct vs Plant Purchase Orders")
             direct_mask = filtered_fact["po_type_norm"].str.contains("direct", na=False)
@@ -962,7 +973,7 @@ with tab_mill:
             )
             if not plant_by_dest.empty:
                 st.markdown("#### Plant PO by Location (BLR/TLR)")
-                st.dataframe(plant_by_dest)
+                st.dataframe(format_table(plant_by_dest))
                 dest_chart = (
                     alt.Chart(plant_by_dest)
                     .mark_bar()
@@ -980,7 +991,7 @@ with tab_mill:
                 aggregate_kpis(plant_df, ["product_key"]).sort_values("volume_bf", ascending=False).head(25)
             ).round(2)
             if not plant_products.empty:
-                st.dataframe(plant_products)
+                st.dataframe(format_table(plant_products))
 
             st.markdown("### Customer vs Plant Comparisons")
             dest_choice = st.selectbox(
@@ -995,7 +1006,7 @@ with tab_mill:
             if comp_df.empty:
                 st.info("No rows for the selected destination class.")
             else:
-                st.dataframe(comp_df.round(2))
+                st.dataframe(format_table(comp_df.round(2)))
                 comp_chart_df = ensure_dataframe(comp_df.head(30))
                 route_chart = (
                     alt.Chart(comp_chart_df)
@@ -1021,7 +1032,7 @@ with tab_mill:
             if product_comp.empty:
                 st.info("No product-level rows for the selection.")
             else:
-                st.dataframe(product_comp.round(2).head(100))
+                st.dataframe(format_table(product_comp.round(2).head(100)))
 
             st.markdown("### Optimal Mill Recommendations")
             rec_dest = st.selectbox(
@@ -1035,7 +1046,7 @@ with tab_mill:
                 st.info("No recommendations found for the selected constraints.")
             else:
                 rec_table = ensure_dataframe(rec_table.round(2))
-                st.dataframe(rec_table)
+                st.dataframe(format_table(rec_table))
                 rec_chart = (
                     alt.Chart(rec_table)
                     .mark_circle(size=140)
