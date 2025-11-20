@@ -44,3 +44,5 @@ Dashboard/*.xlsx
 KP1/analysis_outputs/**
 !KP1/analysis_outputs/
 !KP1/analysis_outputs/trend_dataset.csv
+# Presentation aids
+TALKING_SCRIPT.txt

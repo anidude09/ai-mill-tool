@@ -116,12 +116,17 @@ def load_fact_dataframe(uploaded_file, fallback_paths):
     if "ship_date" in df.columns and "delivered_date" in df.columns:
         df["ship_date"] = df["ship_date"].fillna(df["delivered_date"])
 
-    df["mill_region"] = (
-        df.get("mill_region", "")
-        .astype(str)
-        .str.strip()
-        .str.lower()
-    )
+    region_series = df.get("mill_region")
+    if region_series is None:
+        df["mill_region"] = pd.Series(pd.NA, index=df.index)
+    else:
+        normalized = (
+            region_series.astype(str)
+            .str.strip()
+            .str.lower()
+            .replace({"": pd.NA, "nan": pd.NA, "none": pd.NA})
+        )
+        df["mill_region"] = normalized.str.title()
     df["dest_location_type"] = (
         df.get("dest_location_type", "Customer")
         .fillna("Customer")
@@ -265,7 +270,7 @@ def compute_trend_series(df, freq="W"):
     )
     return trend
 
-def recommend_routes(df, dest_type, min_volume=50):
+def recommend_routes(df, dest_type, min_volume=50, require_index_margin=True):
     if df is None or df.empty:
         return pd.DataFrame()
     subset = df[df.get("dest_location_type") == dest_type].copy()
@@ -274,9 +279,14 @@ def recommend_routes(df, dest_type, min_volume=50):
     subset = subset[subset.get("convbf", 0) >= min_volume]
     if subset.empty:
         return pd.DataFrame()
-    subset = subset[
-        subset.get("index_relative_margin_per_mbf", 0).notna()
-    ]
+    if require_index_margin:
+        subset = subset[
+            subset.get("index_relative_margin_per_mbf", 0).notna()
+        ]
+    else:
+        subset["index_relative_margin_per_mbf"] = subset.get("index_relative_margin_per_mbf").fillna(
+            subset.get("gross_margin_per_mbf")
+        )
     subset = subset.sort_values(
         ["delivered_cost_per_mbf", "index_relative_margin_per_mbf"],
         ascending=[True, False],
@@ -405,6 +415,15 @@ rl_upload = st.sidebar.file_uploader(
 rl_df, rl_source = load_optional_dataframe(rl_upload, RL_REFERENCE_LOCATIONS)
 if rl_df is not None:
     st.sidebar.caption(f"RL series source: {rl_source} — rows: {len(rl_df):,}")
+    if "region" in rl_df.columns:
+        rl_region = (
+            rl_df["region"]
+            .astype(str)
+            .str.strip()
+            .str.lower()
+            .replace({"": pd.NA, "nan": pd.NA, "none": pd.NA})
+        )
+        rl_df["region"] = rl_region.str.title()
     rl_df["rl_date"] = pd.to_datetime(rl_df.get("rl_date"), errors="coerce")
     rl_df["grade"] = pd.to_numeric(rl_df.get("grade"), errors="coerce")
 trend_upload = st.sidebar.file_uploader(
@@ -417,6 +436,15 @@ if trend_df_full is not None:
     trend_df_full = trend_df_full.rename(columns={"length":"length_ft"})
     trend_df_full["transaction_date"] = pd.to_datetime(trend_df_full.get("transaction_date"), errors="coerce")
     trend_df_full["length_ft"] = pd.to_numeric(trend_df_full.get("length_ft"), errors="coerce")
+    if "region" in trend_df_full.columns:
+        trend_region = (
+            trend_df_full["region"]
+            .astype(str)
+            .str.strip()
+            .str.lower()
+            .replace({"": pd.NA, "nan": pd.NA, "none": pd.NA})
+        )
+        trend_df_full["region"] = trend_region.str.title()
     st.sidebar.caption(f"Trend dataset source: {trend_source} — rows: {len(trend_df_full):,}")
 
 tab_lane, tab_mill, tab_rl = st.tabs([
