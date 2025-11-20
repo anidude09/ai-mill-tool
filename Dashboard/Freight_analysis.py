@@ -1063,15 +1063,19 @@ with tab_mill:
                 st.dataframe(format_table(product_comp.round(2).head(100)))
 
             st.markdown("### Optimal Mill Recommendations")
+            dest_counts = comparison_by_mill_dest.groupby("dest_location_type")["volume_bf"].sum().to_dict()
             rec_dest = st.selectbox(
                 "Destination Type",
                 dest_options if dest_options else ["Customer"],
                 key="rec_dest_select",
             )
-            min_volume = int(st.slider("Minimum Volume (BF)", min_value=10, max_value=1000, value=100, step=10))
-            rec_table = recommend_routes(filtered_fact, rec_dest, min_volume=min_volume)
+            min_volume = int(st.slider("Minimum Volume (BF)", min_value=10, max_value=1000, value=50, step=10))
+            require_margin = st.toggle("Require Index Margin", value=False, help="When off, falls back to gross margin if index margin is missing.")
+            available_volume = dest_counts.get(rec_dest, 0)
+            st.caption(f"Available volume in current filters for {rec_dest}: {format_number(available_volume, 0)} BF")
+            rec_table = recommend_routes(filtered_fact, rec_dest, min_volume=min_volume, require_index_margin=require_margin)
             if rec_table.empty:
-                st.info("No recommendations found for the selected constraints.")
+                st.info("No recommendations found for the selected constraints. Try lowering the minimum volume or disabling the margin requirement.")
             else:
                 rec_table = ensure_dataframe(rec_table.round(2))
                 st.dataframe(format_table(rec_table))
