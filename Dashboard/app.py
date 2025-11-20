@@ -491,167 +491,363 @@
 # 3. Lane One Data Tab. Lane_One_Data.csv
 # Feeds the Freight Lane Analysis and DAT benchmark (T4 tab).
 
+# dashbaord 2
 
-import os
+
+
+# import os
+# import pandas as pd
+# import numpy as np
+# import streamlit as st
+
+# st.set_page_config(page_title="American Lumber — Mill Overview", layout="wide")
+
+# @st.cache_data(show_spinner=False)
+# def load_data():
+#     candidates = [
+#         "outputs/cleaned/AL_Transaction_Data_clean.csv",
+#         "outputs/AL_Transaction_Data_clean.csv",
+#         "AL_Transaction_Data_clean.csv",
+#         "Dashboard/AL_Transaction_Data.csv",
+#         "Dashboard/AL_Transaction_Data.xlsx",
+#         "Dashboard/AL_Transaction_Data.xls",
+#         "AL_Transaction_Data.csv",
+#         "AL_Transaction_Data.xlsx",
+#         "AL_Transaction_Data.xls",
+#     ]
+
+#     df = None
+#     used_path = None
+
+#     for p in candidates:
+#         if os.path.exists(p):
+#             used_path = p
+#             if p.lower().endswith(".csv"):
+#                 df = pd.read_csv(p)
+#             else:
+#                 df = pd.read_excel(p)
+#             break
+
+#     if df is None:
+#         st.warning("No local data file found. Upload your AL Transaction file (CSV or Excel).")
+#         uploaded = st.file_uploader("Upload AL_Transaction data", type=["csv", "xlsx", "xls"])
+#         if not uploaded:
+#             st.stop()
+#         used_path = f"(uploaded) {uploaded.name}"
+#         if uploaded.name.lower().endswith(".csv"):
+#             df = pd.read_csv(uploaded)
+#         else:
+#             df = pd.read_excel(uploaded)
+
+#     # Light parsing/normalization
+#     for c in df.columns:
+#         if "date" in c.lower():
+#             df[c] = pd.to_datetime(df[c], errors="coerce")
+
+#     if "MillRegion" in df.columns:
+#         df["MillRegion"] = df["MillRegion"].astype(str).str.strip().str.title()
+#     if "ItemDescription" in df.columns:
+#         df["ItemDescription"] = df["ItemDescription"].astype(str).str.strip()
+#     if "Mill" in df.columns:
+#         df["Mill"] = df["Mill"].astype(str).str.strip()
+
+#     return df, used_path
+
+# df, used_path = load_data()
+
+# st.title("Mill Performance — Quick Look (No Joins)")
+# st.caption(f"Data source: {used_path}")
+# st.divider()
+
+# # sidebar
+# with st.sidebar:
+#     st.header("Filters")
+#     regions_series = df.get("MillRegion", pd.Series(dtype=str)).dropna()
+#     regions = sorted(regions_series.unique().tolist()) if not regions_series.empty else []
+#     sel_regions = st.multiselect("Mill Region", regions, default=regions)
+
+#     # Date filter (DeliveredDate preferred; fallback to PickUpDate)
+#     date_col = (
+#         "DeliveredDate" if "DeliveredDate" in df.columns
+#         else ("PickUpDate" if "PickUpDate" in df.columns else None)
+#     )
+#     if date_col:
+#         min_d = pd.to_datetime(df[date_col]).min()
+#         max_d = pd.to_datetime(df[date_col]).max()
+#         # guard against NaT
+#         if pd.isna(min_d) or pd.isna(max_d):
+#             sel_range = None
+#         else:
+#             sel_range = st.date_input("Date range", value=(min_d, max_d))
+#     else:
+#         sel_range = None
+
+# # Apply filters
+# f = df.copy()
+
+# if sel_regions:
+#     if "MillRegion" in f.columns:
+#         f = f[f["MillRegion"].isin(sel_regions)]
+
+# if sel_range and isinstance(sel_range, (list, tuple)) and len(sel_range) == 2 and sel_range[0] and sel_range[1]:
+#     start_d = pd.to_datetime(sel_range[0])
+#     end_d = pd.to_datetime(sel_range[1])
+#     if "DeliveredDate" in f.columns:
+#         dcol = pd.to_datetime(f["DeliveredDate"], errors="coerce")
+#         f = f[(dcol >= start_d) & (dcol <= end_d)]
+#     elif "PickUpDate" in f.columns:
+#         dcol = pd.to_datetime(f["PickUpDate"], errors="coerce")
+#         f = f[(dcol >= start_d) & (dcol <= end_d)]
+
+
+# deliv_col = "Delivered Cost/MBF" if "Delivered Cost/MBF" in f.columns else None
+# sale_col  = "SalePrice" if "SalePrice" in f.columns else None
+# bf_col    = "BF" if "BF" in f.columns else None
+
+# col1, col2, col3, col4 = st.columns(4)
+# total_bf = f[bf_col].sum() if bf_col else np.nan
+# avg_delivered = f[deliv_col].mean() if deliv_col else np.nan
+# avg_sale = f[sale_col].mean() if sale_col else np.nan
+# avg_margin = (f[sale_col] - f[deliv_col]).mean() if (sale_col and deliv_col) else np.nan
+
+# col1.metric("Total Volume (BF)", f"{total_bf:,.0f}" if pd.notna(total_bf) else "—")
+# col2.metric("Avg Delivered Cost / MBF", f"${avg_delivered:,.2f}" if pd.notna(avg_delivered) else "—")
+# col3.metric("Avg Sale Price / MBF", f"${avg_sale:,.2f}" if pd.notna(avg_sale) else "—")
+# col4.metric("Avg Margin / MBF", f"${avg_margin:,.2f}" if pd.notna(avg_margin) else "—")
+
+# st.divider()
+
+# #Chart 1: Avg Delivered Cost / MBF by MillRegion
+# st.subheader("Average Delivered Cost / MBF by Mill Region")
+# if deliv_col and "MillRegion" in f.columns and not f.empty:
+#     region_view = (
+#         f.groupby("MillRegion", dropna=True)[deliv_col]
+#         .mean()
+#         .sort_values()
+#         .to_frame("AvgDeliveredCostPerMBF")
+#     )
+#     st.bar_chart(region_view)
+# else:
+#     st.info("Missing either Delivered Cost/MBF or MillRegion to plot this chart.")
+
+# # Chart 2: Avg Delivered Cost / MBF by Mill (within selected regions)
+# st.subheader("Average Delivered Cost / MBF by Mill")
+# if deliv_col and "Mill" in f.columns and not f.empty:
+#     mill_view = (
+#         f.groupby("Mill", dropna=True)[deliv_col]
+#         .mean()
+#         .sort_values()
+#         .to_frame("AvgDeliveredCostPerMBF")
+#         .head(50)  # keep chart readable
+#     )
+#     st.bar_chart(mill_view)
+# else:
+#     st.info("Missing either Delivered Cost/MBF or Mill to plot this chart.")
+
+# # Chart 3: Trend over time (monthly)
+# if deliv_col:
+#     st.subheader("Monthly Trend — Delivered Cost / MBF")
+#     time_col = "DeliveredDate" if "DeliveredDate" in f.columns else ("PickUpDate" if "PickUpDate" in f.columns else None)
+#     if time_col:
+#         g = f[[time_col, deliv_col]].dropna().copy()
+#         g["Month"] = pd.to_datetime(g[time_col], errors="coerce").dt.to_period("M").dt.to_timestamp()
+#         trend = g.groupby("Month")[deliv_col].mean().to_frame("AvgDeliveredCostPerMBF")
+#         if not trend.empty:
+#             st.line_chart(trend)
+#         else:
+#             st.info("No data after filtering to plot trend.")
+#     else:
+#         st.info("No date column available to plot trend.")
+
+
+# combined dashboard
+
+# pages/04_Freight_Analysis.py
 import pandas as pd
 import numpy as np
+import altair as alt
 import streamlit as st
+from pathlib import Path
 
-st.set_page_config(page_title="American Lumber — Mill Overview", layout="wide")
+OUT_DIR = Path("outputs")
+MASTER_XLSX = OUT_DIR / "Freight_Summary.xlsx"
+MASTER_CSV  = OUT_DIR / "master_lanes_with_market.csv"
+
+st.set_page_config(page_title="Freight Lane Analysis", layout="wide")
+
+st.title("📦 Freight Lane Analysis")
+st.caption("Using outputs: Freight_Summary.xlsx & master_lanes_with_market.csv")
+
+# ---------- Loaders ----------
+@st.cache_data(show_spinner=False)
+def load_master_csv(path: Path) -> pd.DataFrame:
+    if not path.exists():
+        return pd.DataFrame()
+    df = pd.read_csv(path)
+    for c in ["AvgCostPerMile","AvgDaysToShip","AvgDATPerMile","AvgDelta_vs_DAT","MilesAvg","Loads",
+              "Rank_CostPerMile","Rank_DaysToShip"]:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce")
+    return df
 
 @st.cache_data(show_spinner=False)
-def load_data():
-    candidates = [
-        "outputs/cleaned/AL_Transaction_Data_clean.csv",
-        "outputs/AL_Transaction_Data_clean.csv",
-        "AL_Transaction_Data_clean.csv",
-        "Dashboard/AL_Transaction_Data.csv",
-        "Dashboard/AL_Transaction_Data.xlsx",
-        "Dashboard/AL_Transaction_Data.xls",
-        "AL_Transaction_Data.csv",
-        "AL_Transaction_Data.xlsx",
-        "AL_Transaction_Data.xls",
-    ]
+def load_master_xlsx(path: Path) -> dict:
+    if not path.exists():
+        return {}
+    x = pd.ExcelFile(path)
+    return {name: pd.read_excel(x, sheet_name=name) for name in x.sheet_names}
 
-    df = None
-    used_path = None
+master = load_master_csv(MASTER_CSV)
+sheets = load_master_xlsx(MASTER_XLSX)
 
-    for p in candidates:
-        if os.path.exists(p):
-            used_path = p
-            if p.lower().endswith(".csv"):
-                df = pd.read_csv(p)
-            else:
-                df = pd.read_excel(p)
-            break
+# Optional: ad-hoc uploads (won’t overwrite disk)
+with st.expander("🔄 Upload alternate outputs (optional)"):
+    up_csv  = st.file_uploader("Upload master_lanes_with_market.csv", type=["csv"])
+    up_xlsx = st.file_uploader("Upload Freight_Summary.xlsx", type=["xlsx"])
+    if up_csv is not None:
+        master = pd.read_csv(up_csv)
+    if up_xlsx is not None:
+        x = pd.ExcelFile(up_xlsx)
+        sheets = {name: pd.read_excel(x, sheet_name=name) for name in x.sheet_names}
 
-    if df is None:
-        st.warning("No local data file found. Upload your AL Transaction file (CSV or Excel).")
-        uploaded = st.file_uploader("Upload AL_Transaction data", type=["csv", "xlsx", "xls"])
-        if not uploaded:
-            st.stop()
-        used_path = f"(uploaded) {uploaded.name}"
-        if uploaded.name.lower().endswith(".csv"):
-            df = pd.read_csv(uploaded)
-        else:
-            df = pd.read_excel(uploaded)
+if master.empty and not sheets:
+    st.warning("No outputs found in ./outputs. Run the freight script first.")
+    st.stop()
 
-    # Light parsing/normalization
-    for c in df.columns:
-        if "date" in c.lower():
-            df[c] = pd.to_datetime(df[c], errors="coerce")
+lane_summary   = sheets.get("Lane Summary", master.copy() if "Lane" in master.columns else pd.DataFrame())
+rank_cost      = sheets.get("Rank by Cost_Mile", pd.DataFrame())
+rank_days      = sheets.get("Rank by DaysToShip", pd.DataFrame())
+direct_vs_dat  = sheets.get("Direct vs DAT", pd.DataFrame())
+mill_summary   = sheets.get("Mill Summary", pd.DataFrame())
 
-    if "MillRegion" in df.columns:
-        df["MillRegion"] = df["MillRegion"].astype(str).str.strip().str.title()
-    if "ItemDescription" in df.columns:
-        df["ItemDescription"] = df["ItemDescription"].astype(str).str.strip()
-    if "Mill" in df.columns:
-        df["Mill"] = df["Mill"].astype(str).str.strip()
+def coerce(df, cols):
+    for c in cols:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce")
+    return df
 
-    return df, used_path
+for df in [master, lane_summary, rank_cost, rank_days, direct_vs_dat, mill_summary]:
+    coerce(df, ["AvgCostPerMile","AvgDaysToShip","AvgDATPerMile","AvgDelta_vs_DAT","Loads","MilesAvg"])
 
-df, used_path = load_data()
+# ---------- Sidebar Filters ----------
+st.sidebar.header("Freight Filters")
 
-st.title("Mill Performance — Quick Look (No Joins)")
-st.caption(f"Data source: {used_path}")
-st.divider()
+lanes = sorted(master["Lane"].dropna().unique().tolist()) if "Lane" in master.columns else []
+sel_lanes = st.sidebar.multiselect("Lane(s)", lanes, default=[])
 
-# sidebar
-with st.sidebar:
-    st.header("Filters")
-    regions_series = df.get("MillRegion", pd.Series(dtype=str)).dropna()
-    regions = sorted(regions_series.unique().tolist()) if not regions_series.empty else []
-    sel_regions = st.multiselect("Mill Region", regions, default=regions)
+def range_or_none(df, col):
+    if col not in df.columns or df[col].dropna().empty:
+        return None
+    return float(df[col].min()), float(df[col].max())
 
-    # Date filter (DeliveredDate preferred; fallback to PickUpDate)
-    date_col = (
-        "DeliveredDate" if "DeliveredDate" in df.columns
-        else ("PickUpDate" if "PickUpDate" in df.columns else None)
-    )
-    if date_col:
-        min_d = pd.to_datetime(df[date_col]).min()
-        max_d = pd.to_datetime(df[date_col]).max()
-        # guard against NaT
-        if pd.isna(min_d) or pd.isna(max_d):
-            sel_range = None
-        else:
-            sel_range = st.date_input("Date range", value=(min_d, max_d))
-    else:
-        sel_range = None
+rng_cost = range_or_none(master, "AvgCostPerMile")
+rng_days = range_or_none(master, "AvgDaysToShip")
+rng_delta = range_or_none(master, "AvgDelta_vs_DAT")
 
-# Apply filters
-f = df.copy()
+sel_cost = st.sidebar.slider("Avg Cost/Mile", *rng_cost, rng_cost) if rng_cost else None
+sel_days = st.sidebar.slider("Avg Days to Ship", *rng_days, rng_days) if rng_days else None
+sel_delta = st.sidebar.slider("Δ vs DAT (your − market)", *rng_delta, rng_delta) if rng_delta else None
 
-if sel_regions:
-    if "MillRegion" in f.columns:
-        f = f[f["MillRegion"].isin(sel_regions)]
+def apply_filters(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    if "Lane" in out.columns and sel_lanes:
+        out = out[out["Lane"].isin(sel_lanes)]
+    if sel_cost and "AvgCostPerMile" in out.columns:
+        out = out[(out["AvgCostPerMile"] >= sel_cost[0]) & (out["AvgCostPerMile"] <= sel_cost[1])]
+    if sel_days and "AvgDaysToShip" in out.columns:
+        out = out[(out["AvgDaysToShip"] >= sel_days[0]) & (out["AvgDaysToShip"] <= sel_days[1])]
+    if sel_delta and "AvgDelta_vs_DAT" in out.columns:
+        out = out[(out["AvgDelta_vs_DAT"] >= sel_delta[0]) & (out["AvgDelta_vs_DAT"] <= sel_delta[1])]
+    return out
 
-if sel_range and isinstance(sel_range, (list, tuple)) and len(sel_range) == 2 and sel_range[0] and sel_range[1]:
-    start_d = pd.to_datetime(sel_range[0])
-    end_d = pd.to_datetime(sel_range[1])
-    if "DeliveredDate" in f.columns:
-        dcol = pd.to_datetime(f["DeliveredDate"], errors="coerce")
-        f = f[(dcol >= start_d) & (dcol <= end_d)]
-    elif "PickUpDate" in f.columns:
-        dcol = pd.to_datetime(f["PickUpDate"], errors="coerce")
-        f = f[(dcol >= start_d) & (dcol <= end_d)]
+master_f = apply_filters(master)
+lane_summary_f = apply_filters(lane_summary)
 
-
-deliv_col = "Delivered Cost/MBF" if "Delivered Cost/MBF" in f.columns else None
-sale_col  = "SalePrice" if "SalePrice" in f.columns else None
-bf_col    = "BF" if "BF" in f.columns else None
-
-col1, col2, col3, col4 = st.columns(4)
-total_bf = f[bf_col].sum() if bf_col else np.nan
-avg_delivered = f[deliv_col].mean() if deliv_col else np.nan
-avg_sale = f[sale_col].mean() if sale_col else np.nan
-avg_margin = (f[sale_col] - f[deliv_col]).mean() if (sale_col and deliv_col) else np.nan
-
-col1.metric("Total Volume (BF)", f"{total_bf:,.0f}" if pd.notna(total_bf) else "—")
-col2.metric("Avg Delivered Cost / MBF", f"${avg_delivered:,.2f}" if pd.notna(avg_delivered) else "—")
-col3.metric("Avg Sale Price / MBF", f"${avg_sale:,.2f}" if pd.notna(avg_sale) else "—")
-col4.metric("Avg Margin / MBF", f"${avg_margin:,.2f}" if pd.notna(avg_margin) else "—")
-
-st.divider()
-
-#Chart 1: Avg Delivered Cost / MBF by MillRegion
-st.subheader("Average Delivered Cost / MBF by Mill Region")
-if deliv_col and "MillRegion" in f.columns and not f.empty:
-    region_view = (
-        f.groupby("MillRegion", dropna=True)[deliv_col]
-        .mean()
-        .sort_values()
-        .to_frame("AvgDeliveredCostPerMBF")
-    )
-    st.bar_chart(region_view)
+# ---------- KPIs ----------
+st.subheader("Key Metrics")
+k1,k2,k3,k4 = st.columns(4)
+k1.metric("Unique Lanes", f"{master_f['Lane'].nunique():,}" if "Lane" in master_f else "—")
+k2.metric("Avg Cost/Mile (filtered)", f"{master_f['AvgCostPerMile'].mean():.2f}" if "AvgCostPerMile" in master_f else "—")
+k3.metric("Avg Days (filtered)", f"{master_f['AvgDaysToShip'].mean():.2f}" if "AvgDaysToShip" in master_f else "—")
+if "AvgDelta_vs_DAT" in master_f.columns and master_f["AvgDelta_vs_DAT"].notna().any():
+    k4.metric("Δ vs DAT (mean)", f"{master_f['AvgDelta_vs_DAT'].mean():.2f}")
 else:
-    st.info("Missing either Delivered Cost/MBF or MillRegion to plot this chart.")
+    k4.metric("Δ vs DAT (mean)", "—")
 
-# Chart 2: Avg Delivered Cost / MBF by Mill (within selected regions)
-st.subheader("Average Delivered Cost / MBF by Mill")
-if deliv_col and "Mill" in f.columns and not f.empty:
-    mill_view = (
-        f.groupby("Mill", dropna=True)[deliv_col]
-        .mean()
-        .sort_values()
-        .to_frame("AvgDeliveredCostPerMBF")
-        .head(50)  # keep chart readable
+# ---------- Charts ----------
+st.subheader("Visuals")
+if not lane_summary_f.empty and "AvgCostPerMile" in lane_summary_f.columns:
+    top_cost = lane_summary_f.sort_values("AvgCostPerMile", ascending=False).head(10)
+    st.altair_chart(
+        alt.Chart(top_cost).mark_bar().encode(
+            x=alt.X("AvgCostPerMile:Q", title="Avg Cost/Mile"),
+            y=alt.Y("Lane:N", sort="-x", title="Lane"),
+            tooltip=["Lane","AvgCostPerMile","AvgDaysToShip","Loads"]
+        ).properties(height=300, title="Top 10 Most Expensive Lanes"),
+        use_container_width=True
     )
-    st.bar_chart(mill_view)
-else:
-    st.info("Missing either Delivered Cost/MBF or Mill to plot this chart.")
 
-# Chart 3: Trend over time (monthly)
-if deliv_col:
-    st.subheader("Monthly Trend — Delivered Cost / MBF")
-    time_col = "DeliveredDate" if "DeliveredDate" in f.columns else ("PickUpDate" if "PickUpDate" in f.columns else None)
-    if time_col:
-        g = f[[time_col, deliv_col]].dropna().copy()
-        g["Month"] = pd.to_datetime(g[time_col], errors="coerce").dt.to_period("M").dt.to_timestamp()
-        trend = g.groupby("Month")[deliv_col].mean().to_frame("AvgDeliveredCostPerMBF")
-        if not trend.empty:
-            st.line_chart(trend)
-        else:
-            st.info("No data after filtering to plot trend.")
+if not lane_summary_f.empty and "AvgDaysToShip" in lane_summary_f.columns:
+    slow = lane_summary_f.sort_values("AvgDaysToShip", ascending=False).head(10)
+    st.altair_chart(
+        alt.Chart(slow).mark_bar().encode(
+            x=alt.X("AvgDaysToShip:Q", title="Avg Days to Ship"),
+            y=alt.Y("Lane:N", sort="-x", title="Lane"),
+            tooltip=["Lane","AvgDaysToShip","AvgCostPerMile","Loads"]
+        ).properties(height=300, title="Top 10 Slowest Lanes"),
+        use_container_width=True
+    )
+
+if not master_f.empty and {"AvgCostPerMile","AvgDaysToShip"}.issubset(master_f.columns):
+    dfp = master_f.dropna(subset=["AvgCostPerMile","AvgDaysToShip"]).copy()
+    if "AvgDelta_vs_DAT" in dfp.columns:
+        dfp["MarketFlag"] = np.where(dfp["AvgDelta_vs_DAT"]>0, "Above DAT", "At/Below DAT")
+        color = alt.Color("MarketFlag:N", legend=alt.Legend(title="Market Position"))
     else:
-        st.info("No date column available to plot trend.")
+        color = alt.ColorValue("#4c78a8")
+    size = alt.Size("Loads:Q", legend=alt.Legend(title="Loads")) if "Loads" in dfp.columns else alt.value(60)
+
+    st.altair_chart(
+        alt.Chart(dfp).mark_circle(opacity=0.75).encode(
+            x=alt.X("AvgDaysToShip:Q", title="Avg Days to Ship"),
+            y=alt.Y("AvgCostPerMile:Q", title="Avg Cost/Mile"),
+            color=color,
+            size=size,
+            tooltip=[c for c in ["Lane","AvgCostPerMile","AvgDaysToShip","AvgDATPerMile","AvgDelta_vs_DAT","Loads"] if c in dfp.columns]
+        ).properties(height=360, title="Cost vs Days — Bubble by Loads (color = DAT delta)"),
+        use_container_width=True
+    )
+
+# ---------- Tables ----------
+st.subheader("Tables")
+tabs = st.tabs(["Master (with market)", "Lane Summary", "Rank by Cost", "Rank by Days", "Direct vs DAT", "Mill Summary"])
+
+with tabs[0]:
+    st.dataframe(master_f, use_container_width=True)
+    if not master_f.empty:
+        st.download_button("Download filtered master (CSV)", master_f.to_csv(index=False).encode("utf-8"),
+                           file_name="master_filtered.csv", mime="text/csv")
+
+with tabs[1]:
+    st.dataframe(lane_summary_f if not lane_summary_f.empty else lane_summary, use_container_width=True)
+
+with tabs[2]:
+    st.dataframe(apply_filters(rank_cost) if not rank_cost.empty else rank_cost, use_container_width=True)
+
+with tabs[3]:
+    st.dataframe(apply_filters(rank_days) if not rank_days.empty else rank_days, use_container_width=True)
+
+with tabs[4]:
+    if direct_vs_dat.empty:
+        st.info("No Direct POs / DAT comparison available.")
+    else:
+        show = direct_vs_dat.copy()
+        if "AvgDelta_vs_DAT" in show.columns:
+            show = show.sort_values("AvgDelta_vs_DAT", ascending=False)
+        st.dataframe(show, use_container_width=True)
+
+with tabs[5]:
+    if mill_summary.empty:
+        st.info("Mill summary not available.")
+    else:
+        st.dataframe(mill_summary, use_container_width=True)
