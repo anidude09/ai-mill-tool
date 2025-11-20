@@ -1,0 +1,24 @@
+Unnamed: 0,Purchasing Analytics Project,Unnamed: 2,Unnamed: 3
+,,,
+,Refer to General View and Comparison Charts for Examples of the data we are attempting to understand and analyze,,
+,General View Tab - Using datasets - viewing comparable tables to identify high-level activity to understand volume / margins / etc.,,
+,Comparison Charts - Key purpose to compare mills of avg. delivered costs by products for customers and plants. Identify outliers (high-cost/ higher avg. rate of days on ready list),,
+,Use info / AI tools to identity lower cost purchasing alternatives for plants and customers than actual historcial purchases,,
+,,,
+,"Contract Evaluation Categories (Grouped by Total Mills, Mill Parent, Each Mill by location)",Legend,Notes
+1.0,Total Purchased Board Footage Volume - and distinct count of total PO's,,
+2.0,Board Footage Volume Purchased Contract vs. Non-Contract - and distinct count of total PO's,,
+3.0,"Board Footage by Product Type (Also group into same categories as the Material Types tab), Region, Avg. Delivered Cost (Direct vs. Plant)","Material Type 
+Legend",Materials are viewed by Dimension and Length. Refer to material type legend for ways we would like to view the material types in subcategory groups. 
+,Direct Sales (Contract & Non-Contract),,
+4.0,"Board Footage by Product Type (Also group into same categories as the Material Types tab), Region, Avg. Delivered Cost, Sales Price, Gross Margin",,
+5.0,"Avg. miles, Lumber Cost, Freight Cost, Sales Price, Gross Margin",,
+,Plant Footage (Contract & Non-Contract),,
+6.0,"Average Days between Call Ready Date and Ship-Date by Product, Region, Avg. Delivered Cost by week",,
+7.0,Board Footage & Avg. Delivered Cost by Product Type by week by Region by Plant,,
+8.0,Milage by Mill location to Delivered Plant or Cost (Freight Cost/Mile),,
+,,,
+,Delivered Cost Comparison to Market Rate Index (Random Lengths Publication by Region by Week),,
+9.0,"Random Length Avg. Price/MBF by Product (Diminsion, Length & Grade for #1 & #2 Grades, Dimension and Grade for #3 & #4), Region, Week","Random Lengths 
+(Grade 1&2)
+(Grade 3&4)","To get the mill location by region that coincides with the Random Lengths region, link the Vendor CID column from the original data set to the MillCID column from the MillWithRegion tab on this spreadsheet.  To get Random Lengths pricing you will have to match the Call Ready date from AL data to a Transaction date in the Random Lenths tabs.  Random Lenths prices come out every Friday, so prices listed on those tabs are good from the Transaction Date + 6 days.  When the grade of items purchased is #1 or #2 use the Random Lengths (Grade 1&2) tab, when the grade of items purchased is #3 or #4 use the Random Lengths (Grade 3&4) tab.  We want to compare the Random Lengths price for that period from that Region with the Delivered cost price"

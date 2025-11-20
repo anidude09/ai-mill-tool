@@ -1,0 +1,111 @@
+mill,profitable_index_relative,total_index_relative_margin,avg_index_relative_margin,median_index_relative_margin,n_rows,n_ok_matches,top_selling_product,top_selling_volume_or_count,best_product_by_index_margin,best_product_total_index_margin,worst_product_by_index_margin,worst_product_total_index_margin
+"Hood Industries, Inc. (Bogalusa, LA)",True,5126.737389124501,12.206517593153572,9.959042845812505,573,420,2x4 | #3 | 8ft,76,2x4 | #4 | 12ft,1345.792382376087,2x8 | #4 | 14ft,-325.000059058779
+"LaSalle Lumber Company, LLC (Olla, LA)",True,4842.696984343544,16.360462784944403,15.0,466,296,2x4 | #3 | 8ft,103,2x4 | #4 | 10ft,1197.2792124634761,2x8 | #4 | 10ft,-206.61401180118003
+"Bienville Lumber Company, LLC (Taylor, LA)",True,4096.268382107209,13.171280971405816,10.451096086867011,474,311,2x4 | #3 | 8ft,78,2x6 | #3 | 8ft,1045.080644106656,2x10 | #4 | 14ft,-375.75811011375004
+"Mission Forest Products, LP (Corinth, MS)",True,2631.690688973431,29.241007655260344,40.064592911289,130,90,2x4 | #4 | 8ft,31,2x4 | #4 | 8ft,1037.485002487646,2x4 | #4 | 14ft,-59.79597435206102
+"Georgia-Pacific Corp. (Gurdon, AR)",True,2529.588828054066,6.949419857291391,-2.0,507,364,4x4 | #4 | 8ft,95,2x4 | #4 | 16ft,1003.443426168629,2x6 | #4 | 16ft,-496.94386146129284
+"Southern Lumber Company, Inc. (Hermanville, MS)",True,2047.9566892392438,52.51170998049343,55.000014648437,52,39,2x12 | #4 | <NA>ft,11,2x12 | #4 | 12ft,315.0,2x6 | #4 | 12ft,-28.426896701389012
+"Weyerhaeuser NR Company (Magnolia, MS)",True,1797.2599806618714,3.2796714975581596,-0.024165572784994538,621,548,2x8 | #3 | 16ft,46,2x6 | #3 | 8ft,637.8033940138059,2x8 | #4 | 10ft,-607.543856993481
+"Hood Industries, Inc. (Silver Creek, MS)",True,1475.256933802143,7.931488891409371,5.0,231,186,2x4 | #4 | 10ft,19,2x4 | #4 | 16ft,224.80915739085694,2x4 | #3 | 10ft,0.0
+"Hood Industries, Inc (Waynesboro, MS)",True,1303.1276170222263,8.864813721239635,5.0,228,147,2x12 | #4 | <NA>ft,21,2x8 | #3 | 8ft,230.0,2x12 | #3 | 14ft,-103.33333333333297
+"Weyerhaeuser NR Company (Holden, LA)",True,1248.598794047738,12.241164647526844,7.269207129687004,194,102,2x4 | #3 | 12ft,57,2x4 | #4 | 12ft,650.186985268004,2x4 | #3 | 10ft,0.0
+"Mid South Lumber, Inc (Meridian, MS)",True,1144.8685769993822,18.17251709522829,19.986150379021012,82,63,2x4 | #4 | 8ft,17,2x4 | #4 | 8ft,419.6892802884621,2x4 | #3 | 8ft,0.0
+"West Fraser Mills Ltd. (Mansfield, AR)",True,874.4027644316061,10.930034555395077,9.973751678671988,145,80,6x6 | #4 | 16ft,8,2x8 | #3 | 12ft,211.250029839409,2x12 | #4 | 10ft,-25.0
+"Southeastern Timber Products, LLC (Ackerman, MS)",True,837.0790941597222,5.400510284901434,0.0,426,155,4x6 | #4 | 10ft,42,2x4 | #4 | 12ft,177.0474243790061,2x4 | #3 | 10ft,0.0
+"Weyerhaeuser NR Company (Bruce, MS)",True,831.7159639173814,3.2616312310485545,4.305551033696986,539,255,2x4 | #3 | 8ft,190,2x6 | #3 | 8ft,467.999716460741,2x8 | #4 | 16ft,-216.09129931640604
+"Weyerhaeuser NR Company (Millport, AL)",True,800.7959661164213,2.1241272310780404,-5.0,477,377,2x4 | #3 | 8ft,71,2x6 | #3 | 8ft,1391.891378651495,2x8 | #4 | 8ft,-507.5547945799119
+"Gloster Forest Products (Gloster, MS)",True,558.6119959946802,1.3861339850984622,0.0,793,403,2x4 | #3 | 10ft,151,2x6 | #4 | 8ft,822.0289665932182,2x10 | #4 | 10ft,-679.844759842695
+"Canfor Southern Pine (El Dorado, AR)",True,433.53364577360105,24.085202542977836,27.440254689754497,42,18,2x4 | #3 | 10ft,10,2x4 | #4 | 8ft,134.898290952068,2x4 | #3 | 10ft,0.0
+"Anthony Timberlands, Inc (Bearden, AR)",True,269.217517613983,2.3010044240511367,5.0,186,117,6x6 | #4 | 12ft,18,2x12 | #3 | 12ft,91.0,2x12 | #3 | 10ft,-184.0
+"Georgia-Pacific Corp. (Warrenton, GA)",True,190.003716789603,27.14338811280043,25.00372330002,10,7,2x4 | #4 | 8ft,2,2x4 | #4 | 8ft,45.00372330002,2x4 | #3 | 10ft,0.0
+"CLW, Inc. (Splendora, TX)",True,179.419043973024,44.854760993256,44.85546084335951,4,4,2x4 | #4 | 10ft,1,2x4 | #4 | 16ft,59.870805162875996,2x4 | #4 | 10ft,29.83731712342899
+"Interfor US, Inc (Bay Springs, MS)",True,163.4066380371401,1.4855148912467282,-4.975662868486495,171,110,2x4 | #4 | <NA>ft,36,2x4 | #4 | 14ft,151.21775633176702,2x4 | #4 | 10ft,-68.9674434158959
+"Cal-Tex Lumber Co. (Pollok, TX)",True,110.825582812075,27.70639570301875,17.160529377304982,22,4,4x4 | #4 | 8ft,8,2x4 | #4 | 8ft,145.077646145949,2x4 | #4 | 10ft,-37.76734458387398
+"WoodPerfect (Boaz, AL)",True,94.99126244622005,15.831877074370007,4.995631223110024,6,6,2x8 | #4 | 8ft,3,2x8 | #4 | 8ft,45.0,2x4 | #4 | 8ft,9.991262446220048
+"Southeast Forest Products Mfg, Inc (Louisville, AL)",True,57.871077067057,57.871077067057,57.871077067057,48,1,6x6 | #4 | 16ft,26,2x6 | #4 | 16ft,57.871077067057,2x4 | #3 | 10ft,0.0
+"Westervelt Lumber Division (Moundville, AL)",True,55.44719870590421,0.2603154868821794,-10.0,444,213,6x6 | #4 | 16ft,46,2x6 | #4 | 14ft,145.434012276786,2x10 | #4 | 16ft,-201.59844767080295
+"WoodPerfect (Albertville, AL)",True,55.0,55.0,55.0,2,1,2x4 | #3 | 10ft,1,2x8 | #4 | 8ft,55.0,2x4 | #3 | 10ft,0.0
+"Canfor Southern Pine (Deridder, LA)",True,51.64734921656998,10.329469843313996,-5.0,100,5,2x4 | #3 | 8ft,46,2x4 | #4 | 8ft,36.64734921656998,2x6 | #3 | 8ft,-10.0
+"Interfor US, Inc (Thomaston, GA)",True,29.99998623934698,29.99998623934698,29.99998623934698,1,1,2x8 | #3 | 8ft,1,2x8 | #3 | 8ft,29.99998623934698,2x8 | #3 | 8ft,29.99998623934698
+"Shuqualak Lumber Co., Inc. (Shuqualak, MS)",True,29.951222055513995,29.951222055513995,29.951222055513995,36,1,2x12 | #4 | <NA>ft,20,2x10 | #4 | 10ft,29.951222055513995,2x10 | #4 | 6ft,0.0
+"Harrigan Lumber Company, Inc. (Monroeville, AL)",True,15.0,7.5,7.5,26,2,4x6 | #3 | 10ft,16,2x6 | #3 | 12ft,20.0,2x6 | #3 | 16ft,-5.0
+"Hardy Technologies, LLC (Lumberton, MS)",True,14.971330970455995,4.990443656818665,5.00001041666701,3,3,2x8 | #3 | 8ft,1,2x8 | #3 | 8ft,5.0000105794269984,2x8 | #3 | 16ft,4.971309974361986
+"Jasper Lumber Co, Inc (Jasper, AL)",True,7.608685037364012,7.608685037364012,7.608685037364012,3,1,2x4 | #3 | 8ft,2,2x6 | #3 | 8ft,7.608685037364012,2x4 | #3 | 8ft,0.0
+"Potlatch Land & Lumber, LLC (Waldo, AR)",True,0.6521739130429864,0.09316770186328378,0.0,7,7,2x6 | #4 | 10ft,2,2x8 | #3 | 8ft,0.6521739130429864,2x12 | #4 | 16ft,0.0
+"Great Southern Wood Preserving (Abbeville, AL)",True,0.00861585740599935,0.00861585740599935,0.00861585740599935,67,1,4x4 | #4 | <NA>ft,53,2x4 | #4 | 8ft,0.00861585740599935,4x4 | #4 | 10ft,0.0
+"Austell Forest Products Inc (Gordo, AL)",False,0.0,,,24,0,4x6 | #4 | 10ft,20,1x6 | #3 | 6ft,0.0,1x6 | #3 | 6ft,0.0
+"Biewer Lumber (Winona, MS)",False,0.0,,,9,0,2x4 | #3 | 8ft,9,2x4 | #3 | 8ft,0.0,2x4 | #3 | 8ft,0.0
+"Cal-Tex Lumber Co. (Nacogdoches, TX)",False,0.0,,,15,0,2x12 | #4 | <NA>ft,8,2x10 | #4 | 6ft,0.0,2x10 | #4 | 6ft,0.0
+"Charles Ingram (Effingham, SC)",False,0.0,,,10,0,4x6 | #4 | <NA>ft,4,4x4 | #4 | 10ft,0.0,4x4 | #4 | 10ft,0.0
+"Doman Lumber (Gilmer, TX)",False,0.0,,,5,0,1x4 | #3 | 10ft,5,1x4 | #3 | 10ft,0.0,1x4 | #3 | 10ft,0.0
+"Doman Lumber (Magnolia, AR)",False,0.0,,,2,0,1x4 | #3 | 8ft,1,1x4 | #3 | 8ft,0.0,1x4 | #3 | 8ft,0.0
+"Doman Lumber (Russellville, AR)",False,0.0,,,33,0,1x6 | #4 | 10ft,7,1x4 | #3 | 8ft,0.0,1x4 | #3 | 8ft,0.0
+"Dupont Pine Products, LLC (Alapaha, GA)",False,0.0,,,28,0,6x6 | #4 | 8ft,7,4x4 | #4 | 8ft,0.0,4x4 | #4 | 8ft,0.0
+"Georgia-Pacific Corp. (Camden, TX)",False,0.0,,,54,0,4x4 | #4 | 8ft,54,4x4 | #4 | 8ft,0.0,4x4 | #4 | 8ft,0.0
+"Georgia-Pacific Corp. (Prosperity, SC)",False,0.0,,,3,0,4x4 | #4 | 8ft,3,4x4 | #4 | 8ft,0.0,4x4 | #4 | 8ft,0.0
+"Georgia-Pacific Corp. (Taylorsville, MS)",False,0.0,,,32,0,4x4 | #4 | 8ft,30,4x4 | #3 | 8ft,0.0,4x4 | #3 | 8ft,0.0
+"Grayson Lumber Corporation (Grayson, AL)",False,0.0,,,1,0,2x4 | #4 | 9ft,1,2x4 | #4 | 9ft,0.0,2x4 | #4 | 9ft,0.0
+"Hankins Lumber Company, Inc (Grenada, MS)",False,0.0,,,1,0,2x12 | #4 | <NA>ft,1,2x12 | #4 | <NA>ft,0.0,2x12 | #4 | <NA>ft,0.0
+"Homan Forest Products Corporate, Inc (Fulton, MS)",False,0.0,,,5,0,6x6 | #4 | 8ft,1,6x6 | #4 | 10ft,0.0,6x6 | #4 | 10ft,0.0
+"Hunt Forest Products, LLC (Pollock, LA)",False,0.0,,,1,0,4x4 | #4 | 8ft,1,4x4 | #4 | 8ft,0.0,4x4 | #4 | 8ft,0.0
+"Jack Batte and Sons, Inc. (Forest, MS)",False,0.0,,,47,0,4x6 | #4 | 16ft,10,4x6 | #4 | 10ft,0.0,4x6 | #4 | 10ft,0.0
+"Jordan Lumber & Supply, Inc (Mt. Gilead, NC)",False,0.0,,,1,0,2x6 | #4 | <NA>ft,1,2x6 | #4 | <NA>ft,0.0,2x6 | #4 | <NA>ft,0.0
+"King Lumber - Lincoln Lumber Miss. LLC DBA (Forest, MS)",False,0.0,,,3,0,1x4 | #3 | 8ft,1,1x4 | #3 | 14ft,0.0,1x4 | #3 | 14ft,0.0
+"Leesville Lumber (Leesville, LA)",False,0.0,,,7,0,2x4 | #3 | 10ft,4,2x4 | #3 | 10ft,0.0,2x4 | #3 | 10ft,0.0
+"Littrell Lumber Mill, Inc (Decatur, AL)",False,0.0,,,11,0,6x6 | #4 | 8ft,3,1x4 | #4 | <NA>ft,0.0,1x4 | #4 | <NA>ft,0.0
+"M C Dixon Lumber Co, Inc (Eufaula, AL)",False,0.0,,,1,0,4x4 | #4 | 8ft,1,4x4 | #4 | 8ft,0.0,4x4 | #4 | 8ft,0.0
+"Martco Limited Partnership - Plywood Div (Chopin, LA)",False,0.0,,,35,0,6x6 | #4 | 8ft,35,6x6 | #4 | 8ft,0.0,6x6 | #4 | 8ft,0.0
+"Meadwestvaco Corporation (Cottonton, AL)",False,0.0,,,33,0,4x5 | #4 | 8ft,5,4x5 | #4 | 8ft,0.0,4x5 | #4 | 8ft,0.0
+"Randy Miller Lumber Co, Inc (Wilkesboro, NC)",False,0.0,,,3,0,1x4 | #3 | 10ft,1,1x4 | #3 | 10ft,0.0,1x4 | #3 | 10ft,0.0
+"Snider Industries, LLP (Marshall, TX)",False,0.0,,,10,0,1x12 | #3 | 14ft,2,1x10 | #3 | 14ft,0.0,1x10 | #3 | 14ft,0.0
+"Spanish Trails Lumber Company (Marianna, FL)",False,0.0,,,2,0,2x4 | #4 | 6ft,2,2x4 | #4 | 6ft,0.0,2x4 | #4 | 6ft,0.0
+"Steely Lumber (Huntsville, TX)",False,0.0,,,3,0,1x4 | #4 | 12ft,1,1x4 | #4 | 12ft,0.0,1x4 | #4 | 12ft,0.0
+"T R Miller Co, Inc. (Brewton, AL)",False,0.0,,,1,0,2x12 | #4 | <NA>ft,1,2x12 | #4 | <NA>ft,0.0,2x12 | #4 | <NA>ft,0.0
+"Warren Timbers Company, LLC (Warren, AR)",False,0.0,,,29,0,6x6 | #4 | 12ft,10,4x4 | #4 | 10ft,0.0,4x4 | #4 | 10ft,0.0
+"West Fraser Mills Ltd (Dudley, GA)",False,0.0,,,1,0,2x4 | #3 | <NA>ft,1,2x4 | #3 | <NA>ft,0.0,2x4 | #3 | <NA>ft,0.0
+"West Fraser Mills Ltd. (Henderson, TX)",False,0.0,,,18,0,2x4 | #3 | 8ft,12,2x4 | #3 | 10ft,0.0,2x4 | #3 | 10ft,0.0
+"West Fraser Mills Ltd. (Mc David, FL)",False,0.0,,,2,0,2x4 | #4 | 6ft,2,2x4 | #4 | 6ft,0.0,2x4 | #4 | 6ft,0.0
+"Beasley Forest Prod - Yawn (Hazlehurst, GA)",False,-1.6927082981510466e-05,-1.6927082981510466e-05,-1.6927082981510466e-05,9,1,6x6 | #4 | 10ft,4,6x6 | #4 | 10ft,0.0,2x8 | #3 | 12ft,-1.6927082981510466e-05
+"Resolute FP US, Inc (Glenwood, AR)",False,-0.05493431013400141,-0.0183114367113338,0.0,3,3,2x8 | #3 | 12ft,1,2x8 | #3 | 12ft,0.0,2x8 | #3 | 16ft,-0.05493431013400141
+"Interfor US, Inc (Eatonton, GA)",False,-4.1144022322390015,-4.1144022322390015,-4.1144022322390015,5,1,2x4 | #3 | 8ft,1,2x4 | #3 | 10ft,0.0,2x4 | #4 | 14ft,-4.1144022322390015
+"Georgia-Pacific Corp (Albany, GA)",False,-7.150646003340995,-3.5753230016704975,-3.5753230016704975,3,2,2x4 | #3 | 10ft,1,2x4 | #4 | 8ft,22.849337196823,2x4 | #4 | 16ft,-29.999983200163996
+"West Fraser Mills Ltd. (Russellville, AR)",False,-15.138777144263031,-2.5231295240438385,-4.999994419643002,28,6,6x6 | #4 | 12ft,10,2x8 | #3 | 8ft,5.0,2x8 | #3 | 10ft,-5.071633237822027
+"Two Rivers Lumber Company, LLC (Demopolis, AL)",False,-19.999981742526984,-9.999990871263492,-9.999990871263492,2,2,2x6 | #3 | 8ft,1,2x6 | #3 | 8ft,5.000018257473016,2x6 | #3 | 16ft,-25.0
+"West Fraser Mills Ltd (, )",False,-33.033936927772004,-33.033936927772004,-33.033936927772004,1,1,2x8 | #3 | 16ft,1,2x8 | #3 | 16ft,-33.033936927772004,2x8 | #3 | 16ft,-33.033936927772004
+"Trimjoist Corporation (Columbus, MS)",False,-45.760624634986016,-5.720078079373252,58.0521571152605,18,8,2x4 | #4 | 8ft,8,2x4 | #3 | 8ft,0.0,2x4 | #4 | 8ft,-45.760624634986016
+"Westervelt Lumber Division (Thomasville, AL)",False,-48.75905879969204,-0.8264247254185092,-10.000018028846,73,59,2x4 | #3 | 8ft,13,2x8 | #4 | 14ft,80.00001171874999,2x4 | #4 | 8ft,-94.82481025813803
+"Potlatch Land & Lumber, LLC (Warren, AR)",False,-52.079340051673995,-4.73448545924309,-5.0,11,11,2x8 | #3 | 8ft,4,2x6 | #4 | 10ft,0.0,2x8 | #3 | 10ft,-20.038287232379986
+"Anthony Timberlands, Inc (Malvern, AR)",False,-52.24968319066102,-1.8017132134710696,-0.01875167425700397,80,29,2x10 | #4 | <NA>ft,7,2x12 | #4 | 16ft,73.333333333333,2x12 | #4 | 10ft,-58.333323697916995
+"Potlatch Land & Lumber, LLC (Ola, AR)",False,-55.019142120477994,-6.113238013386444,-10.0,11,9,2x8 | #3 | 12ft,2,2x8 | #4 | 12ft,0.0,2x8 | #3 | 12ft,-20.0
+"West Fraser Mills Ltd. (Maplesville, AL)",False,-60.000012825385056,-7.500001603173132,-2.500008370535511,8,8,2x6 | #3 | 8ft,1,2x6 | #3 | 8ft,20.000019106657987,2x8 | #4 | 8ft,-65.0
+"KyKenKee, Inc (Vance, AL)",False,-85.001416613007,-85.001416613007,-85.001416613007,16,1,4x4 | #4 | 8ft,5,1x4 | #4 | 8ft,0.0,2x4 | #4 | 8ft,-85.001416613007
+"West Fraser Mills Ltd. (Opelika, AL)",False,-92.99993555630996,-4.894733450332104,0.0,19,19,2x6 | #3 | 8ft,3,2x6 | #3 | 10ft,27.0,2x6 | #4 | 14ft,-70.0
+"Pinecrest Lbr / Green Bay Packaging (Plumerville, AR)",False,-113.48504229578288,-3.660807815992996,-5.0,234,31,4x4 | #4 | 8ft,37,2x4 | #4 | 8ft,85.18610210263799,2x4 | #4 | 12ft,-94.61538461538498
+"Rex Lumber-Brookhaven (Brookhaven, MS)",False,-119.85287750849199,-17.121839644070285,-15.0,7,7,2x6 | #3 | 8ft,3,2x4 | #4 | 10ft,-19.988667971566997,2x6 | #3 | 8ft,-45.0
+"Interfor US, Inc (Dequincy, LA)",False,-129.97519433502703,-5.65109540587074,-4.999980957031028,68,23,2x4 | #3 | 8ft,17,2x12 | #3 | 10ft,86.666676302083,2x4 | #4 | 14ft,-154.92658253927402
+"Interfor US, Inc (Baxley, GA)",False,-153.08386462640607,-13.916714966036915,-18.263888888889028,16,11,2x4 | #4 | 6ft,5,2x4 | #4 | 14ft,15.000515198350996,2x8 | #3 | 10ft,-69.82659837666603
+"Rex Lumber Troy, LLC (Troy, AL)",False,-159.13050891258106,-14.466409901143733,5.869565217390999,11,11,2x6 | #4 | 8ft,5,2x6 | #4 | 8ft,54.99992587002794,2x6 | #3 | 14ft,-55.0
+"Canfor Southern Pine (Strong, AR)",False,-179.59514634441197,-9.97750813024511,-12.5,18,18,2x12 | #4 | 8ft,3,2x12 | #4 | 8ft,82.500005859375,2x10 | #4 | 10ft,-94.699342656726
+"Hatfield Lumber Co (Hatfield, AR)",False,-191.64306640625,-191.64306640625,-191.64306640625,2,1,2x12 | #4 | <NA>ft,1,2x12 | #4 | <NA>ft,0.0,2x6 | #3 | 16ft,-191.64306640625
+"Canfor Southern Pine (Fulton, AL)",False,-212.49000924910914,-4.426875192689773,-2.5002197265625057,74,48,2x4 | #3 | 8ft,7,2x12 | #3 | 12ft,95.00002191840198,2x10 | #4 | 8ft,-116.91903121739702
+"Binderholz Timber, LLC (New Orleans, LA)",False,-240.0,-40.0,-40.0,6,6,2x12 | #3 | 12ft,5,2x12 | #3 | 10ft,-40.0,2x12 | #3 | 12ft,-200.0
+"Interfor US, Inc (Monticello, AR)",False,-296.17443732061497,-13.462474423664316,-12.476894488834006,26,22,2x4 | #4 | 8ft,17,2x4 | #4 | 10ft,74.78840712429499,2x4 | #4 | 8ft,-265.6333921690939
+"West Fraser Mills Ltd (Joyce, LA)",False,-355.3736375856729,-12.691915628059746,-10.0,29,28,2x8 | #3 | 8ft,4,2x8 | #3 | 8ft,20.000006098691017,2x10 | #4 | 8ft,-85.03752180028101
+"Chickasaw Lumber Company, LLC (Navasota, TX)",False,-365.0,-365.0,-365.0,4,1,4x4 | #4 | 7ft,3,4x4 | #4 | 7ft,0.0,2x6 | #4 | 12ft,-365.0
+"Interfor US, Inc (Belk, AL)",False,-369.97935884785585,-6.065235390948456,-5.030909247015984,88,61,2x4 | #4 | 8ft,14,2x4 | #4 | 8ft,147.10877165716408,2x4 | #4 | 10ft,-171.86719783068196
+"Coushatta Forest Products, LLC (Coushatta, LA)",False,-444.8551004819238,-6.011555411917889,-2.0658815003571362e-05,157,74,4x4 | #4 | 8ft,11,2x8 | #4 | 8ft,107.5,2x6 | #4 | 12ft,-117.50371744791698
+"West Fraser Mills Ltd (Leola, AR)",False,-473.38762126115097,-39.44896843842925,-45.0,12,12,2x10 | #4 | 8ft,1,2x8 | #3 | 8ft,1.9042968972371455e-05,2x6 | #4 | 8ft,-47.67485351562499
+"Vicksburg Forest Products, LLC (Vicksburg, MS)",False,-480.8375617117107,-1.2360862768938579,-5.0,517,389,2x4 | #4 | 10ft,23,2x6 | #4 | 12ft,213.29941120515102,2x4 | #4 | 16ft,-218.5979241543689
+"Interfor US, Inc (Preston, GA)",False,-516.11518701715,-16.648877000553224,-10.013750000000016,35,31,2x4 | #4 | 8ft,5,2x8 | #3 | 8ft,32.826086956521976,2x4 | #4 | 8ft,-127.705424926691
+"Interfor US, Inc (Swainsboro, GA)",False,-771.967182673665,-12.061987229276015,-5.000450721153996,64,64,2x4 | #4 | 8ft,15,2x4 | #4 | 14ft,18.934679682419983,2x4 | #4 | 12ft,-252.69768509615497
+"Canfor Southern Pine (Bucks, AL)",False,-884.5071774219671,-40.2048717009985,-45.143244140625,83,22,2x4 | #3 | 12ft,16,2x4 | #3 | 8ft,0.0,2x10 | #4 | 8ft,-134.79901750761803
+"Interfor US, Inc (Perry, GA)",False,-973.3396912823255,-22.63580677400757,-5.113014727983,44,43,2x4 | #4 | 10ft,6,2x4 | #4 | 14ft,76.21967885969457,2x4 | #4 | 10ft,-323.73204636085603
+"Georgia-Pacific Corp. (Rome, GA)",False,-1304.511916127931,-5.79783073834636,-5.00001001602601,228,225,2x4 | #4 | 14ft,42,2x4 | #4 | 8ft,87.04429683892678,2x4 | #4 | 14ft,-334.89900851102607
+"Weyerhaeuser NR Company (Dodson, LA)",False,-1317.6636847357126,-4.7059417311989735,-5.0,594,280,2x12 | #4 | <NA>ft,183,2x12 | #3 | 12ft,396.8120431857641,2x8 | #4 | 16ft,-416.89123283489096
+"Georgia-Pacfic Corp (Talladega, AL)",False,-1423.26098919541,-5.8812437570058265,-10.0,244,242,2x4 | #4 | 14ft,55,2x4 | #4 | 8ft,432.5421957783401,2x4 | #4 | 14ft,-1195.4471937020119
+"Georgia-Pacific Corp. (Diboll, TX)",False,-3399.3587592026297,-14.283019996649704,-10.0,258,238,2x4 | #4 | 16ft,34,2x6 | #3 | 8ft,239.375044776806,2x4 | #4 | 14ft,-832.082420314274
+"West Fraser Mills Ltd. (Huttig, AR)",False,-3989.7054310597046,-54.65349905561239,-57.424453125000014,73,73,2x8 | #4 | 8ft,9,2x6 | #4 | 14ft,-37.39583333333297,2x8 | #4 | 16ft,-526.46984054265
+"Weyerhaeuser NR Company (Philadelphia, MS)",False,-7221.58212631061,-10.958394728847663,-5.005795235029012,857,659,2x4 | #3 | 8ft,113,2x6 | #3 | 8ft,1013.903364682041,2x8 | #4 | 8ft,-823.5683024031271
+"West Fraser Mills Ltd (New Boston, TX)",False,-7394.234851847217,-50.645444190734366,-57.30602213541698,152,146,2x10 | #4 | 8ft,11,2x4 | #3 | 8ft,0.0,2x10 | #4 | 8ft,-611.340911980952
+"Georgia-Pacific Corp. (Pineland, TX)",False,-8908.15637412986,-19.116215395128453,-5.022967287713499,577,466,2x4 | #3 | 10ft,63,2x6 | #3 | 12ft,774.5172912326369,2x12 | #4 | 10ft,-1647.9294375
+"Weyerhaeuser NR Company (Dierks, AR)",False,-9270.920086087572,-12.528270386604827,-5.0,1021,740,2x4 | #3 | 8ft,86,2x6 | #3 | 8ft,661.217435317056,2x10 | #4 | 16ft,-1644.886522907061
