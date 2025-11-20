@@ -291,21 +291,24 @@ def recommend_routes(df, dest_type, min_volume=50, require_index_margin=True):
         ["delivered_cost_per_mbf", "index_relative_margin_per_mbf"],
         ascending=[True, False],
     )
-    return subset[
-        [
-            "mill",
-            "vendor_cid",
-            "dest_city",
-            "dest_st",
-            "dimension",
-            "grade",
-            "length_ft",
-            "convbf",
-            "delivered_cost_per_mbf",
-            "rl_price_per_mbf",
-            "index_relative_margin_per_mbf",
-        ]
-    ].head(15)
+    for col in ["gross_margin_per_mbf", "days_ready_to_ship"]:
+        if col not in subset.columns:
+            subset[col] = np.nan
+    columns = [
+        "mill",
+        "vendor_cid",
+        "dest_city",
+        "dest_st",
+        "dimension",
+        "grade",
+        "length_ft",
+        "convbf",
+        "delivered_cost_per_mbf",
+        "gross_margin_per_mbf",
+        "days_ready_to_ship",
+    ]
+    existing_cols = [c for c in columns if c in subset.columns]
+    return subset[existing_cols].head(15)
 
 def format_number(value, precision=0, suffix=""):
     if value is None:
@@ -1078,16 +1081,45 @@ with tab_mill:
                 st.info("No recommendations found for the selected constraints. Try lowering the minimum volume or disabling the margin requirement.")
             else:
                 rec_table = ensure_dataframe(rec_table.round(2))
-                st.dataframe(format_table(rec_table))
+                display_cols = [
+                    col
+                    for col in [
+                        "mill",
+                        "vendor_cid",
+                        "dest_city",
+                        "dest_st",
+                        "dimension",
+                        "grade",
+                        "length_ft",
+                        "convbf",
+                        "delivered_cost_per_mbf",
+                        "gross_margin_per_mbf",
+                        "days_ready_to_ship",
+                    ]
+                    if col in rec_table.columns
+                ]
+                st.dataframe(format_table(rec_table[display_cols]))
                 rec_chart = (
                     alt.Chart(rec_table)
                     .mark_circle(size=140)
                     .encode(
                         x=alt.X("delivered_cost_per_mbf:Q", title="Delivered $/MBF"),
-                        y=alt.Y("rl_price_per_mbf:Q", title="Random Lengths $/MBF"),
+                        y=alt.Y("gross_margin_per_mbf:Q", title="Gross Margin $/MBF"),
                         size=alt.Size("convbf:Q", title="Volume (BF)"),
-                        color=alt.Color("index_relative_margin_per_mbf:Q", title="Index Margin", scale=alt.Scale(scheme="redblue")),
-                        tooltip=["mill","dest_city","dest_st","dimension","grade","length_ft","convbf","delivered_cost_per_mbf","rl_price_per_mbf","index_relative_margin_per_mbf"],
+                        color=alt.Color("dest_city:N", title="Destination City"),
+                        tooltip=[
+                            "mill",
+                            "vendor_cid",
+                            "dest_city",
+                            "dest_st",
+                            "dimension",
+                            "grade",
+                            "length_ft",
+                            "convbf",
+                            "delivered_cost_per_mbf",
+                            "gross_margin_per_mbf",
+                            "days_ready_to_ship",
+                        ],
                     )
                 )
                 st.altair_chart(rec_chart, use_container_width=True)
